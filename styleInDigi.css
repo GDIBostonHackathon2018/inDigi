@@ -1,0 +1,15 @@
+.header {
+	background-color: #FB470E;
+	text-align: center;
+	padding: 95px;
+}
+img#logo {
+	width: 300px;
+    position: fixed;
+    top: 50px;
+    left: 80px;
+
+}
+body{
+	 margin: 0px;
+}
