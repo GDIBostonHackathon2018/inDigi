@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+	<head>
+		
+		<title>Map Page</title>
+		<script src="us-map-dev/lib/raphael.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js"></script>
+		<script src="us-map-dev/jquery.usmap.js"></script>
+		<script>
+		
+			$(document).ready(function() {
+	  			$('#map').usmap({
+	  				showLabels : true,
+	  				'stateStyles' : {fill: 'orange'},
+	  				//click on a state to display a message w/state abbreviation
+	  				'click' : function(event, data) {
+	  					$('.message').remove();
+	  					output = "You clicked " + data.name
+	  					var message = $('<div class="message"></div>');
+	  					fetch("http://localhost:3000/getdata?stateid="+data.name).then(function(response) {
+    						return response.json();
+  						})
+  						.then(function(myJson) {
+    						console.log(JSON.stringify(myJson));
+ 						 });
+	  					message.text(output)
+	  					$('body').prepend(message);
+	  				}
+	  				
+	  				
+	  				
+	  			})
+			})
+		</script>
+	</head>
+	
+	<body>
+		
+		<div id="map" style="width: 900px;  height: 500px;"></div>
+		
+	</body>
+</html>
