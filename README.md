@@ -1,0 +1,2 @@
+# inDigi
+The inDigi (Indigenous Digital) Project (founded by Amber Hampton) is an engaging digital preservation project centered on awareness on Indigenous communities across the globe. With the Support of the amazing Rebecca Cohn and Mel Larsen, the three of them are working to build an interactive map where people can learn more about federally and state wide locations on Indigenous communities in the US.
