@@ -76,14 +76,17 @@
 	  				//click on a state to display a message w/state abbreviation
 	  				'click' : function(event, data) {
 	  					$('.message').remove();
-	  					output = "You clicked " + data.name
+	  					function filterByState(item) {
+	  						if (item.State == data.name) {
+	  							return true;
+	  						}
+	  						return false
+	  					}
+	  					//arr is not actually defined yet...
+	  					var output = arr.filter(filterByState);
+	  					//output = "You clicked " + data.name
 	  					var message = $('<div class="message"></div>');
-	  					fetch("http://localhost:3000/getdata?stateid="+data.name).then(function(response) {
-    						return response.json();
-  						})
-  						.then(function(myJson) {
-    						console.log(JSON.stringify(myJson));
- 						 });
+	  					
 	  					message.text(output)
 	  					$('body').prepend(message);
 	  				}
