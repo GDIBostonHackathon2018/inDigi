@@ -10,6 +10,20 @@ img#logo {
     left: 80px;
 
 }
+.titleWord{
+	font-family: 'Sigmar One', cursive;
+	font-size: 5rem;
+	color: yellow;
+	-webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  text-align: center;
+}
+.regText{
+	font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    text-align: left;
+    padding: 50px;
+}
 body{
 	 margin: 0px;
 }
