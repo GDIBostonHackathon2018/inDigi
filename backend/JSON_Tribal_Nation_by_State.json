@@ -1,2984 +1,2977 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 [\
-  \{\
-    "ID": 1,\
-    "Tribal Nation": "Poarch Band of Creeks",\
-    "State": "AL"\
-  \},\
-  \{\
-    "ID": 2,\
-    "Tribal Nation": "Native Village of Afognak (formerly the Village of Afognak)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 3,\
-    "Tribal Nation": "Agdaagux Tribe of King Cove",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 4,\
-    "Tribal Nation": "Native Village of Akhiok",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 5,\
-    "Tribal Nation": "Akiachak Native Community",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 6,\
-    "Tribal Nation": "Akiak Native Community",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 7,\
-    "Tribal Nation": "Native Village of Akutan",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 8,\
-    "Tribal Nation": "Village of Alakanuk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 9,\
-    "Tribal Nation": "Alatna Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 10,\
-    "Tribal Nation": "Native Village of Aleknagik",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 11,\
-    "Tribal Nation": "Algaaciq Native Village (St. Mary's)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 12,\
-    "Tribal Nation": "Allakaket Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 13,\
-    "Tribal Nation": "Native Village of Ambler",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 14,\
-    "Tribal Nation": "Village of Anaktuvuk Pass",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 15,\
-    "Tribal Nation": "Yupiit of Andreafski",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 16,\
-    "Tribal Nation": "Angoon Community Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 17,\
-    "Tribal Nation": "Village of Aniak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 18,\
-    "Tribal Nation": "Anvik Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 19,\
-    "Tribal Nation": "Arctic Village (See Native Village of Venetie Tribal Government)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 20,\
-    "Tribal Nation": "Asa'carsarmiut Tribe",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 21,\
-    "Tribal Nation": "Native Village of Atka",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 22,\
-    "Tribal Nation": "Village of Atmautluak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 23,\
-    "Tribal Nation": "Atqasuk Village (Atkasook)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 24,\
-    "Tribal Nation": "Native Village of Barrow Inupiat Traditional Government",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 25,\
-    "Tribal Nation": "Beaver Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 26,\
-    "Tribal Nation": "Native Village of Belkofski",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 27,\
-    "Tribal Nation": "Village of Bill Moore's Slough",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 28,\
-    "Tribal Nation": "Birch Creek Tribe",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 29,\
-    "Tribal Nation": "Native Village of Brevig Mission",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 30,\
-    "Tribal Nation": "Native Village of Buckland",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 31,\
-    "Tribal Nation": "Native Village of Cantwell",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 32,\
-    "Tribal Nation": "Native Village of Chenega (aka Chanega)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 33,\
-    "Tribal Nation": "Chalkyitsik Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 34,\
-    "Tribal Nation": "Cheesh-Na Tribe (formerly the Native Village of Chistochina)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 35,\
-    "Tribal Nation": "Village of Chefornak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 36,\
-    "Tribal Nation": "Chevak Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 37,\
-    "Tribal Nation": "Chickaloon Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 38,\
-    "Tribal Nation": "Chignik Bay Tribal Council (formerly the Native Village of Chignik)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 39,\
-    "Tribal Nation": "Native Village of Chignik Lagoon",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 40,\
-    "Tribal Nation": "Chignik Lake Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 41,\
-    "Tribal Nation": "Chilkat Indian Village (Klukwan)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 42,\
-    "Tribal Nation": "Chilkoot Indian Association (Haines)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 43,\
-    "Tribal Nation": "Chinik Eskimo Community (Golovin)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 44,\
-    "Tribal Nation": "Native Village of Chitina",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 45,\
-    "Tribal Nation": "Native Village of Chuathbaluk (Russian Mission, Kuskokwim)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 46,\
-    "Tribal Nation": "Chuloonawick Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 47,\
-    "Tribal Nation": "Circle Native Community",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 48,\
-    "Tribal Nation": "Village of Clarks Point",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 49,\
-    "Tribal Nation": "Native Village of Council",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 50,\
-    "Tribal Nation": "Craig Community Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 51,\
-    "Tribal Nation": "Village of Crooked Creek",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 52,\
-    "Tribal Nation": "Curyung Tribal Council",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 53,\
-    "Tribal Nation": "Native Village of Deering",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 54,\
-    "Tribal Nation": "Native Village of Diomede (aka Inalik)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 55,\
-    "Tribal Nation": "Village of Dot Lake",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 56,\
-    "Tribal Nation": "Douglas Indian Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 57,\
-    "Tribal Nation": "Native Village of Eagle",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 58,\
-    "Tribal Nation": "Native Village of Eek",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 59,\
-    "Tribal Nation": "Egegik Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 60,\
-    "Tribal Nation": "Eklutna Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 61,\
-    "Tribal Nation": "Native Village of Ekuk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 62,\
-    "Tribal Nation": "Ekwok Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 63,\
-    "Tribal Nation": "Native Village of Elim",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 64,\
-    "Tribal Nation": "Emmonak Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 65,\
-    "Tribal Nation": "Evansville Village (aka Bettles Field)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 66,\
-    "Tribal Nation": "Native Village of Eyak (Cordova)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 67,\
-    "Tribal Nation": "Native Village of False Pass",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 68,\
-    "Tribal Nation": "Native Village of Fort Yukon",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 69,\
-    "Tribal Nation": "Native Village of Gakona",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 70,\
-    "Tribal Nation": "Galena Village (aka Louden Village)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 71,\
-    "Tribal Nation": "Native Village of Gambell",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 72,\
-    "Tribal Nation": "Native Village of Georgetown",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 73,\
-    "Tribal Nation": "Native Village of Goodnews Bay",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 74,\
-    "Tribal Nation": "Organized Village of Grayling (aka Holikachuk)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 75,\
-    "Tribal Nation": "Gulkana Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 76,\
-    "Tribal Nation": "Native Village of Hamilton",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 77,\
-    "Tribal Nation": "Healy Lake Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 78,\
-    "Tribal Nation": "Holy Cross Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 79,\
-    "Tribal Nation": "Hoonah Indian Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 80,\
-    "Tribal Nation": "Native Village of Hooper Bay",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 81,\
-    "Tribal Nation": "Hughes Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 82,\
-    "Tribal Nation": "Huslia Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 83,\
-    "Tribal Nation": "Hydaburg Cooperative Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 84,\
-    "Tribal Nation": "Igiugig Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 85,\
-    "Tribal Nation": "Village of Iliamna",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 86,\
-    "Tribal Nation": "Inupiat Community of the Arctic Slope",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 87,\
-    "Tribal Nation": "Iqurmuit Traditional Council (formerly the Native Village of Russian Mission)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 88,\
-    "Tribal Nation": "Ivanoff Bay Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 89,\
-    "Tribal Nation": "Kaguyak Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 90,\
-    "Tribal Nation": "Organized Village of Kake",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 91,\
-    "Tribal Nation": "Kaktovik Village (aka Barter Island)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 92,\
-    "Tribal Nation": "Village of Kalskag",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 93,\
-    "Tribal Nation": "Village of Kaltag",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 94,\
-    "Tribal Nation": "Native Village of Kanatak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 95,\
-    "Tribal Nation": "Native Village of Karluk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 96,\
-    "Tribal Nation": "Organized Village of Kasaan",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 97,\
-    "Tribal Nation": "Kasigluk Traditional Elders Council (formerly the Native Village of Kasigluk)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 98,\
-    "Tribal Nation": "Kenaitze Indian Tribe",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 99,\
-    "Tribal Nation": "Ketchikan Indian Corporation",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 100,\
-    "Tribal Nation": "Native Village of Kiana",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 101,\
-    "Tribal Nation": "King Island Native Community",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 102,\
-    "Tribal Nation": "King Salmon Tribe",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 103,\
-    "Tribal Nation": "Native Village of Kipnuk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 104,\
-    "Tribal Nation": "Native Village of Kivalina",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 105,\
-    "Tribal Nation": "Klawock Cooperative Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 106,\
-    "Tribal Nation": "Native Village of Kluti Kaah (aka Copper Center)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 107,\
-    "Tribal Nation": "Knik Tribe",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 108,\
-    "Tribal Nation": "Native Village of Kobuk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 109,\
-    "Tribal Nation": "Kokhanok Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 110,\
-    "Tribal Nation": "Native Village of Kongiganak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 111,\
-    "Tribal Nation": "Village of Kotlik",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 112,\
-    "Tribal Nation": "Native Village of Kotzebue",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 113,\
-    "Tribal Nation": "Native Village of Koyuk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 114,\
-    "Tribal Nation": "Koyukuk Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 115,\
-    "Tribal Nation": "Organized Village of Kwethluk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 116,\
-    "Tribal Nation": "Native Village of Kwigillingok",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 117,\
-    "Tribal Nation": "Native Village of Kwinhagak (aka Quinhagak)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 118,\
-    "Tribal Nation": "Native Village of Larsen Bay",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 119,\
-    "Tribal Nation": "Levelock Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 120,\
-    "Tribal Nation": "Lime Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 121,\
-    "Tribal Nation": "Village of Lower Kalskag",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 122,\
-    "Tribal Nation": "Manley Hot Springs Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 123,\
-    "Tribal Nation": "Manokotak Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 124,\
-    "Tribal Nation": "Native Village of Marshall (aka Fortuna Ledge)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 125,\
-    "Tribal Nation": "Native Village of Mary's Igloo",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 126,\
-    "Tribal Nation": "McGrath Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 127,\
-    "Tribal Nation": "Native Village of Mekoryuk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 128,\
-    "Tribal Nation": "Mentasta Traditional Council",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 129,\
-    "Tribal Nation": "Metlakatla Indian Community, Annette Island Reserve",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 130,\
-    "Tribal Nation": "Native Village of Minto",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 131,\
-    "Tribal Nation": "Naknek Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 132,\
-    "Tribal Nation": "Native Village of Nanwalek (aka English Bay)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 133,\
-    "Tribal Nation": "Native Village of Napaimute",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 134,\
-    "Tribal Nation": "Native Village of Napakiak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 135,\
-    "Tribal Nation": "Native Village of Napaskiak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 136,\
-    "Tribal Nation": "Native Village of Nelson Lagoon",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 137,\
-    "Tribal Nation": "Nenana Native Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 138,\
-    "Tribal Nation": "New Koliganek Village Council",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 139,\
-    "Tribal Nation": "New Stuyahok Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 140,\
-    "Tribal Nation": "Newhalen Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 141,\
-    "Tribal Nation": "Newtok Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 142,\
-    "Tribal Nation": "Native Village of Nightmute",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 143,\
-    "Tribal Nation": "Nikolai Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 144,\
-    "Tribal Nation": "Native Village of Nikolski",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 145,\
-    "Tribal Nation": "Ninilchik Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 146,\
-    "Tribal Nation": "Native Village of Noatak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 147,\
-    "Tribal Nation": "Nome Eskimo Community",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 148,\
-    "Tribal Nation": "Nondalton Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 149,\
-    "Tribal Nation": "Noorvik Native Community",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 150,\
-    "Tribal Nation": "Northway Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 151,\
-    "Tribal Nation": "Native Village of Nuiqsut (aka Nooiksut)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 152,\
-    "Tribal Nation": "Nulato Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 153,\
-    "Tribal Nation": "Nunakauyarmiut Tribe (formerly the Native Village of Toksook Bay)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 154,\
-    "Tribal Nation": "Native Village of Nunam Iqua (formerly the Native Village of Sheldon's Point)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 155,\
-    "Tribal Nation": "Native Village of Nunapitchuk",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 156,\
-    "Tribal Nation": "Village of Ohogamiut",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 157,\
-    "Tribal Nation": "Village of Old Harbor",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 158,\
-    "Tribal Nation": "Orutsararmuit Native Village (aka Bethel)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 159,\
-    "Tribal Nation": "Oscarville Traditional Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 160,\
-    "Tribal Nation": "Native Village of Ouzinkie",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 161,\
-    "Tribal Nation": "Native Village of Paimiut",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 162,\
-    "Tribal Nation": "Pauloff Harbor Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 163,\
-    "Tribal Nation": "Pedro Bay Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 164,\
-    "Tribal Nation": "Native Village of Perryville",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 165,\
-    "Tribal Nation": "Petersburg Indian Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 166,\
-    "Tribal Nation": "Native Village of Pilot Point",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 167,\
-    "Tribal Nation": "Pilot Station Traditional Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 168,\
-    "Tribal Nation": "Native Village of Pitka's Point",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 169,\
-    "Tribal Nation": "Platinum Traditional Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 170,\
-    "Tribal Nation": "Native Village of Point Hope",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 171,\
-    "Tribal Nation": "Native Village of Point Lay",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 172,\
-    "Tribal Nation": "Native Village of Port Graham",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 173,\
-    "Tribal Nation": "Native Village of Port Heiden",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 174,\
-    "Tribal Nation": "Native Village of Port Lions",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 175,\
-    "Tribal Nation": "Portage Creek Village (aka Ohgsenakale)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 176,\
-    "Tribal Nation": "Pribilof Islands Aleut Communities of St. Paul & St. George Islands",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 177,\
-    "Tribal Nation": "Qagan Tayagungin Tribe of Sand Point Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 178,\
-    "Tribal Nation": "Qawalangin Tribe of Unalaska",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 179,\
-    "Tribal Nation": "Rampart Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 180,\
-    "Tribal Nation": "Village of Red Devil",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 181,\
-    "Tribal Nation": "Native Village of Ruby",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 182,\
-    "Tribal Nation": "Saint George Island (See Pribilof Islands Aleut Communities of St. Paul & St. George Islands)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 183,\
-    "Tribal Nation": "Native Village of Saint Michael",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 184,\
-    "Tribal Nation": "Saint Paul Island (See Pribilof Islands Aleut Communities of St. Paul & St. George Islands)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 185,\
-    "Tribal Nation": "Village of Salamatoff",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 186,\
-    "Tribal Nation": "Native Village of Savoonga",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 187,\
-    "Tribal Nation": "Organized Village of Saxman",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 188,\
-    "Tribal Nation": "Native Village of Scammon Bay",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 189,\
-    "Tribal Nation": "Native Village of Selawik",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 190,\
-    "Tribal Nation": "Seldovia Village Tribe",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 191,\
-    "Tribal Nation": "Shageluk Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 192,\
-    "Tribal Nation": "Native Village of Shaktoolik",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 193,\
-    "Tribal Nation": "Native Village of Shishmaref",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 194,\
-    "Tribal Nation": "Native Village of Shungnak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 195,\
-    "Tribal Nation": "Sitka Tribe of Alaska",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 196,\
-    "Tribal Nation": "Skagway Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 197,\
-    "Tribal Nation": "Village of Sleetmute",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 198,\
-    "Tribal Nation": "Village of Solomon",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 199,\
-    "Tribal Nation": "South Naknek Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 200,\
-    "Tribal Nation": "Stebbins Community Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 201,\
-    "Tribal Nation": "Native Village of Stevens",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 202,\
-    "Tribal Nation": "Village of Stony River",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 203,\
-    "Tribal Nation": "Sun'aq Tribe of Kodiak (formerly the Shoonaq' Tribe of Kodiak)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 204,\
-    "Tribal Nation": "Takotna Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 205,\
-    "Tribal Nation": "Native Village of Tanacross",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 206,\
-    "Tribal Nation": "Native Village of Tanana",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 207,\
-    "Tribal Nation": "Tangirnaq Native Village (formerly Lesnoi Village)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 208,\
-    "Tribal Nation": "Native Village of Tatitlek",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 209,\
-    "Tribal Nation": "Native Village of Tazlina",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 210,\
-    "Tribal Nation": "Telida Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 211,\
-    "Tribal Nation": "Native Village of Teller",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 212,\
-    "Tribal Nation": "Native Village of Tetlin",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 213,\
-    "Tribal Nation": "Central Council of the Tlingit & Haida Indian Tribes",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 214,\
-    "Tribal Nation": "Traditional Village of Togiak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 215,\
-    "Tribal Nation": "Tuluksak Native Community",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 216,\
-    "Tribal Nation": "Native Village of Tuntutuliak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 217,\
-    "Tribal Nation": "Native Village of Tununak",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 218,\
-    "Tribal Nation": "Twin Hills Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 219,\
-    "Tribal Nation": "Native Village of Tyonek",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 220,\
-    "Tribal Nation": "Ugashik Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 221,\
-    "Tribal Nation": "Umkumiute Native Village",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 222,\
-    "Tribal Nation": "Native Village of Unalakleet",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 223,\
-    "Tribal Nation": "Native Village of Unga",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 224,\
-    "Tribal Nation": "Village of Venetie (See Native Village of Venetie Tribal Government)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 225,\
-    "Tribal Nation": "Native Village of Venetie Tribal Government (Arctic Village and Village of Venetie)",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 226,\
-    "Tribal Nation": "Village of Wainwright",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 227,\
-    "Tribal Nation": "Native Village of Wales",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 228,\
-    "Tribal Nation": "Native Village of White Mountain",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 229,\
-    "Tribal Nation": "Wrangell Cooperative Association",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 230,\
-    "Tribal Nation": "Yakutat Tlingit Tribe",\
-    "State": "AK"\
-  \},\
-  \{\
-    "ID": 231,\
-    "Tribal Nation": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 232,\
-    "Tribal Nation": "Cocopah Tribe of Arizona",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 233,\
-    "Tribal Nation": "Colorado River Indian Tribes of the Colorado River Indian Reservation (Arizona and California)",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 233,\
-    "Tribal Nation": "Colorado River Indian Tribes of the Colorado River Indian Reservation (Arizona and California)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 234,\
-    "Tribal Nation": "Fort McDowell Yavapai Nation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 235,\
-    "Tribal Nation": "Fort Mojave Indian Tribe (Arizona, California and Nevada)",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 235,\
-    "Tribal Nation": "Fort Mojave Indian Tribe (Arizona, California and Nevada)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 235,\
-    "Tribal Nation": "Fort Mojave Indian Tribe (Arizona, California and Nevada)",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 236,\
-    "Tribal Nation": "Gila River Indian Community of the Gila River Indian Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 237,\
-    "Tribal Nation": "Havasupai Tribe of the Havasupai Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 238,\
-    "Tribal Nation": "Hopi Tribe of Arizona",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 239,\
-    "Tribal Nation": "Hualapai Indian Tribe of the Hualapai Indian Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 240,\
-    "Tribal Nation": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 241,\
-    "Tribal Nation": "Navajo Nation (Arizona, New Mexico and Utah)",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 241,\
-    "Tribal Nation": "Navajo Nation (Arizona, New Mexico and Utah)",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 241,\
-    "Tribal Nation": "Navajo Nation (Arizona, New Mexico and Utah)",\
-    "State": "UT"\
-  \},\
-  \{\
-    "ID": 242,\
-    "Tribal Nation": "Pascua Yaqui Tribe of Arizona",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 243,\
-    "Tribal Nation": "Quechan Tribe of the Fort Yuma Indian Reservation (Arizona and California)",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 243,\
-    "Tribal Nation": "Quechan Tribe of the Fort Yuma Indian Reservation (Arizona and California)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 244,\
-    "Tribal Nation": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 244,\
-    "Tribal Nation": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 245,\
-    "Tribal Nation": "San Carlos Apache Tribe of the San Carlos Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 246,\
-    "Tribal Nation": "San Juan Southern Paiute Tribe of Arizona",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 247,\
-    "Tribal Nation": "Tohono O\'92odham Nation of Arizona",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 248,\
-    "Tribal Nation": "Tonto Apache Tribe of Arizona",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 249,\
-    "Tribal Nation": "White Mountain Apache Tribe of the Fort Apache Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 250,\
-    "Tribal Nation": "Yavapai-Apache Nation of the Camp Verde Indian Reservation",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 251,\
-    "Tribal Nation": "Yavapai-Prescott Indian Tribe",\
-    "State": "AZ"\
-  \},\
-  \{\
-    "ID": 252,\
-    "Tribal Nation": "Agua Caliente Band of Cahuilla Indians of the Agua Caliente Indian Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 253,\
-    "Tribal Nation": "Alturas Indian Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 254,\
-    "Tribal Nation": "Augustine Band of Cahuilla Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 255,\
-    "Tribal Nation": "Bear River Band of the Rohnerville Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 256,\
-    "Tribal Nation": "Berry Creek Rancheria of Maidu Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 257,\
-    "Tribal Nation": "Big Lagoon Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 258,\
-    "Tribal Nation": "Big Pine Band Paiute Tribe of the Owens Valley",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 259,\
-    "Tribal Nation": "Big Sandy Rancheria of Western Mono Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 260,\
-    "Tribal Nation": "Big Valley Band of Pomo Indians of the Big Valley Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 261,\
-    "Tribal Nation": "Bishop Pauite Tribe (previously listed as Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 262,\
-    "Tribal Nation": "Blue Lake Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 263,\
-    "Tribal Nation": "Bridgeport Indian Colony",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 264,\
-    "Tribal Nation": "Buena Vista Rancheria of Me-Wuk Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 265,\
-    "Tribal Nation": "Cabazon Band of Mission Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 266,\
-    "Tribal Nation": "Cachil DeHe Band of Wintun Indians of the Colusa Indian Community of the Colusa Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 267,\
-    "Tribal Nation": "Cahuilla Band of Mission Indians of the Cahuilla Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 268,\
-    "Tribal Nation": "Cahto Indian Tribe of the Laytonville Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 269,\
-    "Tribal Nation": "California Valley Miwok Tribe",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 270,\
-    "Tribal Nation": "Campo Band of Diegue\'f1o Mission Indians of the Campo Indian Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 271,\
-    "Tribal Nation": "Capitan Grande Band of Diegue\'f1o Mission Indians of California:Barona Group of Capitan Grande Band of Mission Indians of the Barona Reservation; Viejas (Baron Long) Group of Capitan Grande Band of Mission Indians of the Viejas Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 272,\
-    "Tribal Nation": "Cedarville Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 273,\
-    "Tribal Nation": "Chemehuevi Indian Tribe of the Chemehuevi Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 274,\
-    "Tribal Nation": "Cher-Ae Heights Indian Community of the Trinidad Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 275,\
-    "Tribal Nation": "Chicken Ranch Rancheria of Me-Wuk Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 276,\
-    "Tribal Nation": "Cloverdale Rancheria of Pomo Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 277,\
-    "Tribal Nation": "Cold Springs Rancheria of Mono Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 278,\
-    "Tribal Nation": "Cortina Indian Rancheria of Wintun Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 279,\
-    "Tribal Nation": "Coyote Valley Band of Pomo Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 280,\
-    "Tribal Nation": "Death Valley Timbi-Sha Shoshone Tribe",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 281,\
-    "Tribal Nation": "Dry Creek Rancheria of Pomo Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 282,\
-    "Tribal Nation": "Elem Indian Colony of Pomo Indians of the Sulphur Bank Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 283,\
-    "Tribal Nation": "Elk Valley Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 284,\
-    "Tribal Nation": "Enterprise Rancheria of Maidu Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 285,\
-    "Tribal Nation": "Ewiiaapaayp Band of Kumeyaay Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 286,\
-    "Tribal Nation": "Federated Indians of Graton Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 287,\
-    "Tribal Nation": "Fort Bidwell Indian Community of the Fort Bidwell Reservation of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 288,\
-    "Tribal Nation": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 289,\
-    "Tribal Nation": "Greenville Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 290,\
-    "Tribal Nation": "Grindstone Indian Rancheria of Wintun-Wailaki Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 291,\
-    "Tribal Nation": "Guidiville Rancheria of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 292,\
-    "Tribal Nation": "Habematolel Pomo of Upper Lake",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 293,\
-    "Tribal Nation": "Hoopa Valley Tribe",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 294,\
-    "Tribal Nation": "Hopland Band of Pomo Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 295,\
-    "Tribal Nation": "Inaja Band of Diegue\'f1o Mission Indians of the Inaja and Cosmit Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 296,\
-    "Tribal Nation": "Ione Band of Miwok Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 297,\
-    "Tribal Nation": "Jackson Band of Miwuk Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 298,\
-    "Tribal Nation": "Jamul Indian Village of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 299,\
-    "Tribal Nation": "Karuk Tribe",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 300,\
-    "Tribal Nation": "Kashia Band of Pomo Indians of the Stewart\'92s Point Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 301,\
-    "Tribal Nation": "Koi Nation of Northern California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 302,\
-    "Tribal Nation": "La Jolla Band of Luise\'f1o Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 303,\
-    "Tribal Nation": "La Posta Band of Diegue\'f1o Mission Indians of the La Posta Indian Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 304,\
-    "Tribal Nation": "Lone Pine Paiute-Shoshone Tribe",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 305,\
-    "Tribal Nation": "Los Coyotes Band of Cahuilla & Cupeno Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 306,\
-    "Tribal Nation": "Lytton Rancheria of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 307,\
-    "Tribal Nation": "Manchester Band of Pomo Indians of the Manchester Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 308,\
-    "Tribal Nation": "Manzanita Band of Diegue\'f1o Mission Indians of the Manzanita Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 309,\
-    "Tribal Nation": "Mechoopda Indian Tribe of Chico Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 310,\
-    "Tribal Nation": "Mesa Grande Band of Diegue\'f1o Mission Indians of the Mesa Grande Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 311,\
-    "Tribal Nation": "Middletown Rancheria of Pomo Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 312,\
-    "Tribal Nation": "Mooretown Rancheria of Maidu Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 313,\
-    "Tribal Nation": "Morongo Band of Cahuilla Mission Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 314,\
-    "Tribal Nation": "Northfork Rancheria of Mono Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 315,\
-    "Tribal Nation": "Pala Band of Luise\'f1o Mission Indians of the Pala Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 316,\
-    "Tribal Nation": "Paskenta Band of Nomlaki Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 317,\
-    "Tribal Nation": "Pauma Band of Luise\'f1o Mission Indians of the Pauma & Yuima Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 318,\
-    "Tribal Nation": "Pechanga Band of Luise\'f1o Mission Indians of the Pechanga Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 319,\
-    "Tribal Nation": "Picayune Rancheria of Chukchansi Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 320,\
-    "Tribal Nation": "Pinoleville Pomo Nation (formerly the Pinoleville Rancheria of Pomo Indians of California)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 321,\
-    "Tribal Nation": "Pit River Tribe (includes XL Ranch, Big Bend, Likely, Lookout, Montgomery Creek and Roaring Creek Rancherias)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 322,\
-    "Tribal Nation": "Potter Valley Tribe (formerly the Potter Valley Rancheria of Pomo Indians of California)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 323,\
-    "Tribal Nation": "Quartz Valley Indian Community of the Quartz Valley Reservation of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 324,\
-    "Tribal Nation": "Ramona Band of Cahuilla",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 325,\
-    "Tribal Nation": "Redding Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 326,\
-    "Tribal Nation": "Redwood Valley or Little River Band of Pomo Indians of the Redwood Valley Rancheria California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 327,\
-    "Tribal Nation": "Resighini Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 328,\
-    "Tribal Nation": "Rincon Band of Luise\'f1o Mission Indians of the Rincon Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 329,\
-    "Tribal Nation": "Robinson Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 330,\
-    "Tribal Nation": "Round Valley Indian Tribes, Round Valley Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 331,\
-    "Tribal Nation": "San Manual Band of Serrano Mission Indians of the San Maual Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 332,\
-    "Tribal Nation": "San Pasqual Band of Diegue\'f1o Mission Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 333,\
-    "Tribal Nation": "Santa Rosa Indian Community of the Santa Rosa Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 334,\
-    "Tribal Nation": "Santa Rosa Band of Cahuilla Indians (formerly the Santa Rosa Band of Cahuilla Mission Indians of the Santa Rosa Reservation)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 335,\
-    "Tribal Nation": "Santa Ynez Band of Chumash Mission Indians of the Santa Ynez Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 336,\
-    "Tribal Nation": "Lipay Nation of Santa Ysabel (Previously listed as the Santa Ysabel Band of Diegue\'f1o Mission Indians of the Santa Ysabel Reservation)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 337,\
-    "Tribal Nation": "Scotts Valley Band of Pomo Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 338,\
-    "Tribal Nation": "Sheep Ranch Rancheria of Me-Wuk Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 339,\
-    "Tribal Nation": "Sherwood Valley Rancheria of Pomo Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 340,\
-    "Tribal Nation": "Shingle Springs Band of Miwok Indians, Shingle Springs Rancheria (Verona Tract)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 341,\
-    "Tribal Nation": "Soboba Band of Luise\'f1o Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 342,\
-    "Tribal Nation": "Susanville Indian Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 343,\
-    "Tribal Nation": "Sycuan Band of the Kumeyaay Nation (formerly the Sycuan Band of Diegueno Mission Indians of California)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 344,\
-    "Tribal Nation": "Table Mountain Rancheria of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 345,\
-    "Tribal Nation": "Tejon Indian Tribe",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 346,\
-    "Tribal Nation": "Tolowa Dee-ni' Nation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 347,\
-    "Tribal Nation": "Torres-Martinez Desert Cahuilla Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 348,\
-    "Tribal Nation": "Tule River Indian Tribe of the Tule River Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 349,\
-    "Tribal Nation": "Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 350,\
-    "Tribal Nation": "Twenty-Nine Palms Band of Mission Indians of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 351,\
-    "Tribal Nation": "United Auburn Indian Community of the Auburn Rancheria of California",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 352,\
-    "Tribal Nation": "Upper Lake Band of Pomo Indians",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 353,\
-    "Tribal Nation": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 354,\
-    "Tribal Nation": "Washoe Tribe (Carson Colony, Dresslerville Colony, Woodfords Community, Stewart Community and Washoe Ranches) (California and Nevada)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 355,\
-    "Tribal Nation": "Wilton Rancheria",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 356,\
-    "Tribal Nation": "Wiyot Tribe (formerly the Table Bluff Reservation-Wiyot Tribe)",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 357,\
-    "Tribal Nation": "Yocha Dehe Wintun Nation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 358,\
-    "Tribal Nation": "Yurok Tribe of the Yurok Reservation",\
-    "State": "CA"\
-  \},\
-  \{\
-    "ID": 359,\
-    "Tribal Nation": "Southern Ute Indian Tribe of the Southern Ute Reservation",\
-    "State": "CO"\
-  \},\
-  \{\
-    "ID": 360,\
-    "Tribal Nation": "Ute Mountain Tribe of the Ute Mountain Reservation (Colorado, New Mexico and Utah)",\
-    "State": "CO"\
-  \},\
-  \{\
-    "ID": 360,\
-    "Tribal Nation": "Ute Mountain Tribe of the Ute Mountain Reservation (Colorado, New Mexico and Utah)",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 360,\
-    "Tribal Nation": "Ute Mountain Tribe of the Ute Mountain Reservation (Colorado, New Mexico and Utah)",\
-    "State": "UT"\
-  \},\
-  \{\
-    "ID": 361,\
-    "Tribal Nation": "Mashantucket Pequot Tribe",\
-    "State": "CO"\
-  \},\
-  \{\
-    "ID": 362,\
-    "Tribal Nation": "Mohegan Tribe of Indians of Connecticut",\
-    "State": "CO"\
-  \},\
-  \{\
-    "ID": 363,\
-    "Tribal Nation": "Miccosukee Tribe of Indians of Florida",\
-    "State": "FL"\
-  \},\
-  \{\
-    "ID": 364,\
-    "Tribal Nation": "Seminole Tribe of Florida (Dania, Big Cypress, Brighton, Hollywood and Tampa Reservations)",\
-    "State": "FL"\
-  \},\
-  \{\
-    "ID": 365,\
-    "Tribal Nation": "Coeur D\'92Alene Tribe",\
-    "State": "ID"\
-  \},\
-  \{\
-    "ID": 366,\
-    "Tribal Nation": "Kootenai Tribe of Idaho",\
-    "State": "ID"\
-  \},\
-  \{\
-    "ID": 367,\
-    "Tribal Nation": "Nez Perce Tribe",\
-    "State": "ID"\
-  \},\
-  \{\
-    "ID": 368,\
-    "Tribal Nation": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho",\
-    "State": "ID"\
-  \},\
-  \{\
-    "ID": 369,\
-    "Tribal Nation": "Pokagon Band of Potawatomi Indians (Michigan and Indiana)",\
-    "State": "IN"\
-  \},\
-  \{\
-    "ID": 369,\
-    "Tribal Nation": "Pokagon Band of Potawatomi Indians (Michigan and Indiana)",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 370,\
-    "Tribal Nation": "Sac & Fox Tribe of the Mississippi in Iowa",\
-    "State": "IA"\
-  \},\
-  \{\
-    "ID": 371,\
-    "Tribal Nation": "Iowa Tribe of Kansas and Nebraska",\
-    "State": "KS"\
-  \},\
-  \{\
-    "ID": 372,\
-    "Tribal Nation": "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas",\
-    "State": "KS"\
-  \},\
-  \{\
-    "ID": 373,\
-    "Tribal Nation": "Prairie Band Potawatomi Nation",\
-    "State": "KS"\
-  \},\
-  \{\
-    "ID": 374,\
-    "Tribal Nation": "Sac & Fox Nation of Missouri (Kansas and Nebraska)",\
-    "State": "KS"\
-  \},\
-  \{\
-    "ID": 374,\
-    "Tribal Nation": "Sac & Fox Nation of Missouri (Kansas and Nebraska)",\
-    "State": "NE"\
-  \},\
-  \{\
-    "ID": 375,\
-    "Tribal Nation": "Chitimacha Tribe of Louisiana",\
-    "State": "LA"\
-  \},\
-  \{\
-    "ID": 376,\
-    "Tribal Nation": "Coushatta Tribe of Louisiana",\
-    "State": "LA"\
-  \},\
-  \{\
-    "ID": 377,\
-    "Tribal Nation": "Jena Band of Choctaw Indians",\
-    "State": "LA"\
-  \},\
-  \{\
-    "ID": 378,\
-    "Tribal Nation": "Tunica-Biloxi Indian Tribe of Louisiana",\
-    "State": "LA"\
-  \},\
-  \{\
-    "ID": 379,\
-    "Tribal Nation": "Aroostook Band of Micmac Indians",\
-    "State": "ME"\
-  \},\
-  \{\
-    "ID": 380,\
-    "Tribal Nation": "Houlton Band of Maliseet Indians",\
-    "State": "ME"\
-  \},\
-  \{\
-    "ID": 381,\
-    "Tribal Nation": "Passamaquoddy Tribe",\
-    "State": "ME"\
-  \},\
-  \{\
-    "ID": 382,\
-    "Tribal Nation": "Penobscot Nation",\
-    "State": "ME"\
-  \},\
-  \{\
-    "ID": 383,\
-    "Tribal Nation": "Mashpee Wampanoag Tribe",\
-    "State": "MA"\
-  \},\
-  \{\
-    "ID": 384,\
-    "Tribal Nation": "Wampanoag Tribe of Gay Head (Aquinnah) of Massachusetts",\
-    "State": "MA"\
-  \},\
-  \{\
-    "ID": 385,\
-    "Tribal Nation": "Bay Mills Indian Community",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 386,\
-    "Tribal Nation": "Grand Traverse Band of Ottawa and Chippewa Indians",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 387,\
-    "Tribal Nation": "Hannahville Indian Community",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 388,\
-    "Tribal Nation": "Nottawaseppi Huron Band of the Potawatomi",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 389,\
-    "Tribal Nation": "Keweenaw Bay Indian Community",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 390,\
-    "Tribal Nation": "Lac Vieux Desert Band of Lake Superior Chippewa Indians of Michigan",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 391,\
-    "Tribal Nation": "Little River Band of Ottawa Indians",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 392,\
-    "Tribal Nation": "Little Traverse Bay Bands of Odawa Indians",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 393,\
-    "Tribal Nation": "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 394,\
-    "Tribal Nation": "Saginaw Chippewa Indian Tribe of Michigan",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 395,\
-    "Tribal Nation": "Sault Ste. Marie Tribe of Chippewa Indians of Michigan",\
-    "State": "MI"\
-  \},\
-  \{\
-    "ID": 396,\
-    "Tribal Nation": "Lower Sioux Indian Community in the State of Minnesota",\
-    "State": "MN"\
-  \},\
-  \{\
-    "ID": 397,\
-    "Tribal Nation": "Mdewakanton Sioux Indians",\
-    "State": "MN"\
-  \},\
-  \{\
-    "ID": 398,\
-    "Tribal Nation": "Minnesota Chippewa Tribe (Six component reservations: Bois Forte Band (Nett Lake);Fond du Lac Band; Grand Portage Band; Leech Lake Band; Mille Lacs Ban; White Earth Band)",\
-    "State": "MN"\
-  \},\
-  \{\
-    "ID": 399,\
-    "Tribal Nation": "Prairie Island Indian Community in the State of Minnesota",\
-    "State": "MN"\
-  \},\
-  \{\
-    "ID": 400,\
-    "Tribal Nation": "Red Lake Band of Chippewa Indians",\
-    "State": "MN"\
-  \},\
-  \{\
-    "ID": 401,\
-    "Tribal Nation": "Shakopee Mdewakanton Sioux Community of Minnesota",\
-    "State": "MN"\
-  \},\
-  \{\
-    "ID": 402,\
-    "Tribal Nation": "Upper Sioux Community",\
-    "State": "MN"\
-  \},\
-  \{\
-    "ID": 403,\
-    "Tribal Nation": "Mississippi Band of Choctaw Indians",\
-    "State": "MS"\
-  \},\
-  \{\
-    "ID": 404,\
-    "Tribal Nation": "Montana",\
-    "State": "MT"\
-  \},\
-  \{\
-    "ID": 405,\
-    "Tribal Nation": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation",\
-    "State": "MT"\
-  \},\
-  \{\
-    "ID": 406,\
-    "Tribal Nation": "Blackfeet Tribe of the Blackfeet Indian Reservation of Montana",\
-    "State": "MT"\
-  \},\
-  \{\
-    "ID": 407,\
-    "Tribal Nation": "Chippewa-Cree Indians of the Rocky Boy's Reservation",\
-    "State": "MT"\
-  \},\
-  \{\
-    "ID": 408,\
-    "Tribal Nation": "Confederated Salish and Kootenai Tribes of the Flathead Reservation",\
-    "State": "MT"\
-  \},\
-  \{\
-    "ID": 409,\
-    "Tribal Nation": "Crow Tribe of Montana",\
-    "State": "MT"\
-  \},\
-  \{\
-    "ID": 410,\
-    "Tribal Nation": "Fort Belknap Indian Community of the Fort Belknap Reservation of Montana",\
-    "State": "MT"\
-  \},\
-  \{\
-    "ID": 411,\
-    "Tribal Nation": "Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation",\
-    "State": "MT"\
-  \},\
-  \{\
-    "ID": 412,\
-    "Tribal Nation": "Omaha Tribe of Nebraska",\
-    "State": "NE"\
-  \},\
-  \{\
-    "ID": 413,\
-    "Tribal Nation": "Ponca Tribe of Nebraska",\
-    "State": "NE"\
-  \},\
-  \{\
-    "ID": 414,\
-    "Tribal Nation": "Santee Sioux Nation",\
-    "State": "NE"\
-  \},\
-  \{\
-    "ID": 415,\
-    "Tribal Nation": "Winnebago Tribe of Nebraska",\
-    "State": "NE"\
-  \},\
-  \{\
-    "ID": 416,\
-    "Tribal Nation": "Confederated Tribes of the Goshute Reservation (Nevada and Utah)",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 416,\
-    "Tribal Nation": "Confederated Tribes of the Goshute Reservation (Nevada and Utah)",\
-    "State": "UT"\
-  \},\
-  \{\
-    "ID": 417,\
-    "Tribal Nation": "Duckwater Shoshone Tribe of the Duckwater Reservation",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 418,\
-    "Tribal Nation": "Ely Shoshone Tribe of Nevada",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 419,\
-    "Tribal Nation": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation (Nevada and Oregon)",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 419,\
-    "Tribal Nation": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation (Nevada and Oregon)",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 420,\
-    "Tribal Nation": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 421,\
-    "Tribal Nation": "Lovelock Paiute Tribe of the Lovelock Indian Colony",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 422,\
-    "Tribal Nation": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 423,\
-    "Tribal Nation": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 424,\
-    "Tribal Nation": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 425,\
-    "Tribal Nation": "Reno-Sparks Indian Colony",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 426,\
-    "Tribal Nation": "Shoshone-Paiute Tribes of the Duck Valley Reservation",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 427,\
-    "Tribal Nation": "Summit Lake Paiute Tribe of Nevada",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 428,\
-    "Tribal Nation": "Te-Moak Tribe of Western Shoshone Indians of Nevada (Four constituent bands: Battle Mountain Band; Elko Band; South Fork Band; Wells Band)",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 429,\
-    "Tribal Nation": "Walker River Paiute Tribe of the Walker River Reservation",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 430,\
-    "Tribal Nation": "Washoe Tribe (Nevada and California) (Carson Colony, Dresslerville Colony, Woodfords Community, Stewart Community and Washoe Ranches)",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 431,\
-    "Tribal Nation": "Winnemucca Indian Colony of Nevada",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 432,\
-    "Tribal Nation": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 433,\
-    "Tribal Nation": "Yomba Shoshone Tribe of the Yomba Reservation",\
-    "State": "NV"\
-  \},\
-  \{\
-    "ID": 434,\
-    "Tribal Nation": "Jicarilla Apache Nation",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 435,\
-    "Tribal Nation": "Mescalero Apache Tribe of the Mescalero Reservation",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 436,\
-    "Tribal Nation": "Ohkay Owingeh (formerly the Pueblo of San Juan)",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 437,\
-    "Tribal Nation": "Pueblo of Acoma",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 438,\
-    "Tribal Nation": "Pueblo of Cochiti",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 439,\
-    "Tribal Nation": "Pueblo of Jemez",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 440,\
-    "Tribal Nation": "Pueblo of Isleta",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 441,\
-    "Tribal Nation": "Pueblo of Laguna",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 442,\
-    "Tribal Nation": "Pueblo of Nambe",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 443,\
-    "Tribal Nation": "Pueblo of Picuris",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 444,\
-    "Tribal Nation": "Pueblo of Pojoaque",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 445,\
-    "Tribal Nation": "Pueblo of San Felipe",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 446,\
-    "Tribal Nation": "Pueblo of San Ildefonso",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 447,\
-    "Tribal Nation": "Pueblo of Sandia",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 448,\
-    "Tribal Nation": "Pueblo of Santa Ana",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 449,\
-    "Tribal Nation": "Pueblo of Santa Clara",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 450,\
-    "Tribal Nation": "Kewa Pueblo",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 451,\
-    "Tribal Nation": "Pueblo of Taos",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 452,\
-    "Tribal Nation": "Pueblo of Tesuque",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 453,\
-    "Tribal Nation": "Pueblo of Zia",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 454,\
-    "Tribal Nation": "Zuni Tribe of the Zuni Reservation",\
-    "State": "NM"\
-  \},\
-  \{\
-    "ID": 455,\
-    "Tribal Nation": "Cayuga Nation",\
-    "State": "NY"\
-  \},\
-  \{\
-    "ID": 456,\
-    "Tribal Nation": "Oneida Nation of New York",\
-    "State": "NY"\
-  \},\
-  \{\
-    "ID": 457,\
-    "Tribal Nation": "Onondaga Nation",\
-    "State": "NY"\
-  \},\
-  \{\
-    "ID": 458,\
-    "Tribal Nation": "Saint Regis Mohawk Tribe (formerly the St. Regis Band of Mohawk Indians of New York)",\
-    "State": "NY"\
-  \},\
-  \{\
-    "ID": 459,\
-    "Tribal Nation": "Seneca Nation of Indians",\
-    "State": "NY"\
-  \},\
-  \{\
-    "ID": 460,\
-    "Tribal Nation": "Shinnecock Indian Nation",\
-    "State": "NY"\
-  \},\
-  \{\
-    "ID": 461,\
-    "Tribal Nation": "Tonawanda Band of Seneca",\
-    "State": "NY"\
-  \},\
-  \{\
-    "ID": 462,\
-    "Tribal Nation": "Tuscarora Nation of New York",\
-    "State": "NY"\
-  \},\
-  \{\
-    "ID": 463,\
-    "Tribal Nation": "Eastern Band of Cherokee Indians",\
-    "State": "NC"\
-  \},\
-  \{\
-    "ID": 464,\
-    "Tribal Nation": "Spirit Lake Tribe",\
-    "State": "ND"\
-  \},\
-  \{\
-    "ID": 465,\
-    "Tribal Nation": "Standing Rock Sioux Tribe (North Dakota and South Dakota)",\
-    "State": "ND"\
-  \},\
-  \{\
-    "ID": 465,\
-    "Tribal Nation": "Standing Rock Sioux Tribe (North Dakota and South Dakota)",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 466,\
-    "Tribal Nation": "Three Affiliated Tribes of the Fort Berthold Reservation",\
-    "State": "ND"\
-  \},\
-  \{\
-    "ID": 467,\
-    "Tribal Nation": "Turtle Mountain Band of Chippewa Indians of North Dakota",\
-    "State": "ND"\
-  \},\
-  \{\
-    "ID": 468,\
-    "Tribal Nation": "Absentee-Shawnee Tribe of Indians",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 469,\
-    "Tribal Nation": "Alabama-Quassarte Tribal Town",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 470,\
-    "Tribal Nation": "Apache Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 471,\
-    "Tribal Nation": "Caddo Nation of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 472,\
-    "Tribal Nation": "Cherokee Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 473,\
-    "Tribal Nation": "Cheyenne and Arapaho Tribes",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 474,\
-    "Tribal Nation": "Citizen Potawatomi Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 475,\
-    "Tribal Nation": "Comanche Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 476,\
-    "Tribal Nation": "Delaware Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 477,\
-    "Tribal Nation": "Delaware Tribe of Indians",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 478,\
-    "Tribal Nation": "Eastern Shawnee Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 479,\
-    "Tribal Nation": "Fort Sill Apache Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 480,\
-    "Tribal Nation": "Iowa Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 481,\
-    "Tribal Nation": "Kaw Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 482,\
-    "Tribal Nation": "Kialegee Tribal Town",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 483,\
-    "Tribal Nation": "Kickapoo Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 484,\
-    "Tribal Nation": "Kiowa Indian Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 485,\
-    "Tribal Nation": "Miami Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 486,\
-    "Tribal Nation": "Modoc Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 487,\
-    "Tribal Nation": "Muscogee (Creek) Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 488,\
-    "Tribal Nation": "Ottawa Tribe of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 489,\
-    "Tribal Nation": "Otoe-Missouria Tribe of Indians",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 490,\
-    "Tribal Nation": "Pawnee Nation of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 491,\
-    "Tribal Nation": "Peoria Tribe of Indians of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 492,\
-    "Tribal Nation": "Ponca Tribe of Indians of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 493,\
-    "Tribal Nation": "Quapaw Tribe of Indians",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 494,\
-    "Tribal Nation": "Sac & Fox Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 495,\
-    "Tribal Nation": "Seminole Nation of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 496,\
-    "Tribal Nation": "Seneca-Cayuga Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 497,\
-    "Tribal Nation": "Shawnee Tribe",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 498,\
-    "Tribal Nation": "The Chickasaw Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 499,\
-    "Tribal Nation": "The Choctaw Nation of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 500,\
-    "Tribal Nation": "The Osage Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 501,\
-    "Tribal Nation": "Thlopthlocco Tribal Town",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 502,\
-    "Tribal Nation": "Tonkawa Tribe of Indians of Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 503,\
-    "Tribal Nation": "United Keetoowah Band of Cherokee Indians in Oklahoma",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 504,\
-    "Tribal Nation": "Wichita and Affiliated Tribes (Wichita, Keechi, Waco and Tawakonie)",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 505,\
-    "Tribal Nation": "Wyandotte Nation",\
-    "State": "OK"\
-  \},\
-  \{\
-    "ID": 506,\
-    "Tribal Nation": "Burns Paiute Tribe",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 507,\
-    "Tribal Nation": "Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 508,\
-    "Tribal Nation": "Confederated Tribes of the Grand Ronde Community of Oregon",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 509,\
-    "Tribal Nation": "Confederated Tribes of the Siletz Reservation",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 510,\
-    "Tribal Nation": "Confederated Tribes of the Umatilla Indian Reservation",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 511,\
-    "Tribal Nation": "Confederated Tribes of the Warm Springs Reservation of Oregon",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 512,\
-    "Tribal Nation": "Coquille Indian Tribe",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 513,\
-    "Tribal Nation": "Cow Creek Band of Umpqua Tribe of Indians",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 514,\
-    "Tribal Nation": "Klamath Tribes",\
-    "State": "OR"\
-  \},\
-  \{\
-    "ID": 515,\
-    "Tribal Nation": "Narragansett Indian Tribe",\
-    "State": "RI"\
-  \},\
-  \{\
-    "ID": 516,\
-    "Tribal Nation": "Catawba Indian Nation (Catawba Tribe of South Carolina)",\
-    "State": "SC"\
-  \},\
-  \{\
-    "ID": 517,\
-    "Tribal Nation": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 518,\
-    "Tribal Nation": "Crow Creek Sioux Tribe of the Crow Creek Reservation",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 519,\
-    "Tribal Nation": "Flandreau Santee Sioux Tribe of South Dakota",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 520,\
-    "Tribal Nation": "Lower Brule Sioux Tribe of the Lower Brule Reservation",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 521,\
-    "Tribal Nation": "Oglala Sioux Tribe (previously listed as Oglala Sioux Tribe of the Pine Ridge Reservation)",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 522,\
-    "Tribal Nation": "Rosebud Sioux Tribe of the Rosebud Indian Reservation",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 523,\
-    "Tribal Nation": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 524,\
-    "Tribal Nation": "Yankton Sioux Tribe of South Dakota",\
-    "State": "SD"\
-  \},\
-  \{\
-    "ID": 525,\
-    "Tribal Nation": "Alabama-Coushatta Tribe of Texas",\
-    "State": "TX"\
-  \},\
-  \{\
-    "ID": 526,\
-    "Tribal Nation": "Kickapoo Traditional Tribe of Texas",\
-    "State": "TX"\
-  \},\
-  \{\
-    "ID": 527,\
-    "Tribal Nation": "Ysleta Del Sur Pueblo",\
-    "State": "TX"\
-  \},\
-  \{\
-    "ID": 528,\
-    "Tribal Nation": "Northwestern Band of Shoshoni Nation",\
-    "State": "UT"\
-  \},\
-  \{\
-    "ID": 529,\
-    "Tribal Nation": "Paiute Indian Tribe of Utah (Cedar Band of Paiutes, Kanosh Band of Paiutes,Koosharem Band of Paiutes, Indian Peaks Band of Paiutes, and Shivwits Band of Paiutes)",\
-    "State": "UT"\
-  \},\
-  \{\
-    "ID": 530,\
-    "Tribal Nation": "Skull Valley Band of Goshute Indians of Utah",\
-    "State": "UT"\
-  \},\
-  \{\
-    "ID": 531,\
-    "Tribal Nation": "Ute Indian Tribe of the Uintah and Ouray Reservation",\
-    "State": "UT"\
-  \},\
-  \{\
-    "ID": 532,\
-    "Tribal Nation": "Ute Mountain Ute Tribe (Colorado, New Mexico and Utah)",\
-    "State": "UT"\
-  \},\
-  \{\
-    "ID": 533,\
-    "Tribal Nation": "Pamunkey Indian Tribe",\
-    "State": "VA"\
-  \},\
-  \{\
-    "ID": 534,\
-    "Tribal Nation": "Chickahominy Indian Tribe",\
-    "State": "VA"\
-  \},\
-  \{\
-    "ID": 535,\
-    "Tribal Nation": "Chickahominy Indian Tribe-Eastern Division",\
-    "State": "VA"\
-  \},\
-  \{\
-    "ID": 536,\
-    "Tribal Nation": "Upper Mattaponi Tribe",\
-    "State": "VA"\
-  \},\
-  \{\
-    "ID": 537,\
-    "Tribal Nation": "Rappahannock Tribe, Inc.",\
-    "State": "VA"\
-  \},\
-  \{\
-    "ID": 538,\
-    "Tribal Nation": "Monacan Indian Nation",\
-    "State": "VA"\
-  \},\
-  \{\
-    "ID": 539,\
-    "Tribal Nation": "Nansemond Indian Tribe",\
-    "State": "VA"\
-  \},\
-  \{\
-    "ID": 540,\
-    "Tribal Nation": "Confederated Tribes of the Chehalis Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 541,\
-    "Tribal Nation": "Confederated Tribes of the Colville Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 542,\
-    "Tribal Nation": "Confederated Tribes and Bands of the Yakama Nation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 543,\
-    "Tribal Nation": "Cowlitz Indian Tribe",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 544,\
-    "Tribal Nation": "Hoh Indian Tribe",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 545,\
-    "Tribal Nation": "Jamestown S\'92Klallam Tribe",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 546,\
-    "Tribal Nation": "Kalispel Indian Community of the Kalispel Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 547,\
-    "Tribal Nation": "Lower Elwha Tribal Community",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 548,\
-    "Tribal Nation": "Lummi Tribe of the Lummi Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 549,\
-    "Tribal Nation": "Makah Indian Tribe of the Makah Indian Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 550,\
-    "Tribal Nation": "Muckleshoot Indian Tribe",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 551,\
-    "Tribal Nation": "Nisqually Indian Tribe",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 552,\
-    "Tribal Nation": "Nooksack Indian Tribe of Washington",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 553,\
-    "Tribal Nation": "Port Gamble S'Klallam Tribe",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 554,\
-    "Tribal Nation": "Puyallup Tribe of the Puyallup Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 555,\
-    "Tribal Nation": "Quileute Tribe of the Quileute Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 556,\
-    "Tribal Nation": "Quinault Indian Nation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 557,\
-    "Tribal Nation": "Samish Indian Nation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 558,\
-    "Tribal Nation": "Sauk-Suiattle Indian Tribe of Washington",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 559,\
-    "Tribal Nation": "Shoalwater Bay IndianTribe of the Shoalwater Bay Indian Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 560,\
-    "Tribal Nation": "Skokomish Indian Tribe",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 561,\
-    "Tribal Nation": "Snoqualmie Indian Tribe",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 562,\
-    "Tribal Nation": "Spokane Tribe of the Spokane Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 563,\
-    "Tribal Nation": "Squaxin Island Tribe of the Squaxin Island Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 564,\
-    "Tribal Nation": "Stillaguamish Tribe of Indians of Washington",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 565,\
-    "Tribal Nation": "Suquamish Indian Tribe of the Port Madison Reservation",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 566,\
-    "Tribal Nation": "Swinomish Indian Tribal Community",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 567,\
-    "Tribal Nation": "Tulalip Tribes of Washington",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 568,\
-    "Tribal Nation": "Upper Skagit Indian Tribe of Washington",\
-    "State": "WA"\
-  \},\
-  \{\
-    "ID": 569,\
-    "Tribal Nation": "Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 570,\
-    "Tribal Nation": "Forest County Potawatomi Community",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 571,\
-    "Tribal Nation": "Ho-Chunk Nation of Wisconsin",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 572,\
-    "Tribal Nation": "Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 573,\
-    "Tribal Nation": "Lac du Flambeau Band of Lake Superior Chippewa Indians of the Lac du Flambeau Reservation of Wisconsin",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 574,\
-    "Tribal Nation": "Menominee Indian Tribe of Wisconsin",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 575,\
-    "Tribal Nation": "Oneida Tribe of Indians of Wisconsin",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 576,\
-    "Tribal Nation": "Red Cliff Band of Lake Superior Chippewa Indians of Wisconsin",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 577,\
-    "Tribal Nation": "St. Croix Chippewa Indians of Wisconsin",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 578,\
-    "Tribal Nation": "Sokaogon Chippewa Community",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 579,\
-    "Tribal Nation": "Stockbridge Munsee Community",\
-    "State": "WI"\
-  \},\
-  \{\
-    "ID": 580,\
-    "Tribal Nation": "Arapaho Tribe of the Wind River Reservation",\
-    "State": "WY"\
-  \},\
-  \{\
-    "ID": 581,\
-    "Tribal Nation": "Shoshone Tribe of the Wind River Reservation",\
-    "State": "WY"\
-  \}\
-]}
+[
+  {
+    "ID": 1,
+    "Tribal Nation": "Poarch Band of Creeks",
+    "State": "AL"
+  },
+  {
+    "ID": 2,
+    "Tribal Nation": "Native Village of Afognak (formerly the Village of Afognak)",
+    "State": "AK"
+  },
+  {
+    "ID": 3,
+    "Tribal Nation": "Agdaagux Tribe of King Cove",
+    "State": "AK"
+  },
+  {
+    "ID": 4,
+    "Tribal Nation": "Native Village of Akhiok",
+    "State": "AK"
+  },
+  {
+    "ID": 5,
+    "Tribal Nation": "Akiachak Native Community",
+    "State": "AK"
+  },
+  {
+    "ID": 6,
+    "Tribal Nation": "Akiak Native Community",
+    "State": "AK"
+  },
+  {
+    "ID": 7,
+    "Tribal Nation": "Native Village of Akutan",
+    "State": "AK"
+  },
+  {
+    "ID": 8,
+    "Tribal Nation": "Village of Alakanuk",
+    "State": "AK"
+  },
+  {
+    "ID": 9,
+    "Tribal Nation": "Alatna Village",
+    "State": "AK"
+  },
+  {
+    "ID": 10,
+    "Tribal Nation": "Native Village of Aleknagik",
+    "State": "AK"
+  },
+  {
+    "ID": 11,
+    "Tribal Nation": "Algaaciq Native Village (St. Mary's)",
+    "State": "AK"
+  },
+  {
+    "ID": 12,
+    "Tribal Nation": "Allakaket Village",
+    "State": "AK"
+  },
+  {
+    "ID": 13,
+    "Tribal Nation": "Native Village of Ambler",
+    "State": "AK"
+  },
+  {
+    "ID": 14,
+    "Tribal Nation": "Village of Anaktuvuk Pass",
+    "State": "AK"
+  },
+  {
+    "ID": 15,
+    "Tribal Nation": "Yupiit of Andreafski",
+    "State": "AK"
+  },
+  {
+    "ID": 16,
+    "Tribal Nation": "Angoon Community Association",
+    "State": "AK"
+  },
+  {
+    "ID": 17,
+    "Tribal Nation": "Village of Aniak",
+    "State": "AK"
+  },
+  {
+    "ID": 18,
+    "Tribal Nation": "Anvik Village",
+    "State": "AK"
+  },
+  {
+    "ID": 19,
+    "Tribal Nation": "Arctic Village (See Native Village of Venetie Tribal Government)",
+    "State": "AK"
+  },
+  {
+    "ID": 20,
+    "Tribal Nation": "Asa'carsarmiut Tribe",
+    "State": "AK"
+  },
+  {
+    "ID": 21,
+    "Tribal Nation": "Native Village of Atka",
+    "State": "AK"
+  },
+  {
+    "ID": 22,
+    "Tribal Nation": "Village of Atmautluak",
+    "State": "AK"
+  },
+  {
+    "ID": 23,
+    "Tribal Nation": "Atqasuk Village (Atkasook)",
+    "State": "AK"
+  },
+  {
+    "ID": 24,
+    "Tribal Nation": "Native Village of Barrow Inupiat Traditional Government",
+    "State": "AK"
+  },
+  {
+    "ID": 25,
+    "Tribal Nation": "Beaver Village",
+    "State": "AK"
+  },
+  {
+    "ID": 26,
+    "Tribal Nation": "Native Village of Belkofski",
+    "State": "AK"
+  },
+  {
+    "ID": 27,
+    "Tribal Nation": "Village of Bill Moore's Slough",
+    "State": "AK"
+  },
+  {
+    "ID": 28,
+    "Tribal Nation": "Birch Creek Tribe",
+    "State": "AK"
+  },
+  {
+    "ID": 29,
+    "Tribal Nation": "Native Village of Brevig Mission",
+    "State": "AK"
+  },
+  {
+    "ID": 30,
+    "Tribal Nation": "Native Village of Buckland",
+    "State": "AK"
+  },
+  {
+    "ID": 31,
+    "Tribal Nation": "Native Village of Cantwell",
+    "State": "AK"
+  },
+  {
+    "ID": 32,
+    "Tribal Nation": "Native Village of Chenega (aka Chanega)",
+    "State": "AK"
+  },
+  {
+    "ID": 33,
+    "Tribal Nation": "Chalkyitsik Village",
+    "State": "AK"
+  },
+  {
+    "ID": 34,
+    "Tribal Nation": "Cheesh-Na Tribe (formerly the Native Village of Chistochina)",
+    "State": "AK"
+  },
+  {
+    "ID": 35,
+    "Tribal Nation": "Village of Chefornak",
+    "State": "AK"
+  },
+  {
+    "ID": 36,
+    "Tribal Nation": "Chevak Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 37,
+    "Tribal Nation": "Chickaloon Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 38,
+    "Tribal Nation": "Chignik Bay Tribal Council (formerly the Native Village of Chignik)",
+    "State": "AK"
+  },
+  {
+    "ID": 39,
+    "Tribal Nation": "Native Village of Chignik Lagoon",
+    "State": "AK"
+  },
+  {
+    "ID": 40,
+    "Tribal Nation": "Chignik Lake Village",
+    "State": "AK"
+  },
+  {
+    "ID": 41,
+    "Tribal Nation": "Chilkat Indian Village (Klukwan)",
+    "State": "AK"
+  },
+  {
+    "ID": 42,
+    "Tribal Nation": "Chilkoot Indian Association (Haines)",
+    "State": "AK"
+  },
+  {
+    "ID": 43,
+    "Tribal Nation": "Chinik Eskimo Community (Golovin)",
+    "State": "AK"
+  },
+  {
+    "ID": 44,
+    "Tribal Nation": "Native Village of Chitina",
+    "State": "AK"
+  },
+  {
+    "ID": 45,
+    "Tribal Nation": "Native Village of Chuathbaluk (Russian Mission, Kuskokwim)",
+    "State": "AK"
+  },
+  {
+    "ID": 46,
+    "Tribal Nation": "Chuloonawick Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 47,
+    "Tribal Nation": "Circle Native Community",
+    "State": "AK"
+  },
+  {
+    "ID": 48,
+    "Tribal Nation": "Village of Clarks Point",
+    "State": "AK"
+  },
+  {
+    "ID": 49,
+    "Tribal Nation": "Native Village of Council",
+    "State": "AK"
+  },
+  {
+    "ID": 50,
+    "Tribal Nation": "Craig Community Association",
+    "State": "AK"
+  },
+  {
+    "ID": 51,
+    "Tribal Nation": "Village of Crooked Creek",
+    "State": "AK"
+  },
+  {
+    "ID": 52,
+    "Tribal Nation": "Curyung Tribal Council",
+    "State": "AK"
+  },
+  {
+    "ID": 53,
+    "Tribal Nation": "Native Village of Deering",
+    "State": "AK"
+  },
+  {
+    "ID": 54,
+    "Tribal Nation": "Native Village of Diomede (aka Inalik)",
+    "State": "AK"
+  },
+  {
+    "ID": 55,
+    "Tribal Nation": "Village of Dot Lake",
+    "State": "AK"
+  },
+  {
+    "ID": 56,
+    "Tribal Nation": "Douglas Indian Association",
+    "State": "AK"
+  },
+  {
+    "ID": 57,
+    "Tribal Nation": "Native Village of Eagle",
+    "State": "AK"
+  },
+  {
+    "ID": 58,
+    "Tribal Nation": "Native Village of Eek",
+    "State": "AK"
+  },
+  {
+    "ID": 59,
+    "Tribal Nation": "Egegik Village",
+    "State": "AK"
+  },
+  {
+    "ID": 60,
+    "Tribal Nation": "Eklutna Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 61,
+    "Tribal Nation": "Native Village of Ekuk",
+    "State": "AK"
+  },
+  {
+    "ID": 62,
+    "Tribal Nation": "Ekwok Village",
+    "State": "AK"
+  },
+  {
+    "ID": 63,
+    "Tribal Nation": "Native Village of Elim",
+    "State": "AK"
+  },
+  {
+    "ID": 64,
+    "Tribal Nation": "Emmonak Village",
+    "State": "AK"
+  },
+  {
+    "ID": 65,
+    "Tribal Nation": "Evansville Village (aka Bettles Field)",
+    "State": "AK"
+  },
+  {
+    "ID": 66,
+    "Tribal Nation": "Native Village of Eyak (Cordova)",
+    "State": "AK"
+  },
+  {
+    "ID": 67,
+    "Tribal Nation": "Native Village of False Pass",
+    "State": "AK"
+  },
+  {
+    "ID": 68,
+    "Tribal Nation": "Native Village of Fort Yukon",
+    "State": "AK"
+  },
+  {
+    "ID": 69,
+    "Tribal Nation": "Native Village of Gakona",
+    "State": "AK"
+  },
+  {
+    "ID": 70,
+    "Tribal Nation": "Galena Village (aka Louden Village)",
+    "State": "AK"
+  },
+  {
+    "ID": 71,
+    "Tribal Nation": "Native Village of Gambell",
+    "State": "AK"
+  },
+  {
+    "ID": 72,
+    "Tribal Nation": "Native Village of Georgetown",
+    "State": "AK"
+  },
+  {
+    "ID": 73,
+    "Tribal Nation": "Native Village of Goodnews Bay",
+    "State": "AK"
+  },
+  {
+    "ID": 74,
+    "Tribal Nation": "Organized Village of Grayling (aka Holikachuk)",
+    "State": "AK"
+  },
+  {
+    "ID": 75,
+    "Tribal Nation": "Gulkana Village",
+    "State": "AK"
+  },
+  {
+    "ID": 76,
+    "Tribal Nation": "Native Village of Hamilton",
+    "State": "AK"
+  },
+  {
+    "ID": 77,
+    "Tribal Nation": "Healy Lake Village",
+    "State": "AK"
+  },
+  {
+    "ID": 78,
+    "Tribal Nation": "Holy Cross Village",
+    "State": "AK"
+  },
+  {
+    "ID": 79,
+    "Tribal Nation": "Hoonah Indian Association",
+    "State": "AK"
+  },
+  {
+    "ID": 80,
+    "Tribal Nation": "Native Village of Hooper Bay",
+    "State": "AK"
+  },
+  {
+    "ID": 81,
+    "Tribal Nation": "Hughes Village",
+    "State": "AK"
+  },
+  {
+    "ID": 82,
+    "Tribal Nation": "Huslia Village",
+    "State": "AK"
+  },
+  {
+    "ID": 83,
+    "Tribal Nation": "Hydaburg Cooperative Association",
+    "State": "AK"
+  },
+  {
+    "ID": 84,
+    "Tribal Nation": "Igiugig Village",
+    "State": "AK"
+  },
+  {
+    "ID": 85,
+    "Tribal Nation": "Village of Iliamna",
+    "State": "AK"
+  },
+  {
+    "ID": 86,
+    "Tribal Nation": "Inupiat Community of the Arctic Slope",
+    "State": "AK"
+  },
+  {
+    "ID": 87,
+    "Tribal Nation": "Iqurmuit Traditional Council (formerly the Native Village of Russian Mission)",
+    "State": "AK"
+  },
+  {
+    "ID": 88,
+    "Tribal Nation": "Ivanoff Bay Village",
+    "State": "AK"
+  },
+  {
+    "ID": 89,
+    "Tribal Nation": "Kaguyak Village",
+    "State": "AK"
+  },
+  {
+    "ID": 90,
+    "Tribal Nation": "Organized Village of Kake",
+    "State": "AK"
+  },
+  {
+    "ID": 91,
+    "Tribal Nation": "Kaktovik Village (aka Barter Island)",
+    "State": "AK"
+  },
+  {
+    "ID": 92,
+    "Tribal Nation": "Village of Kalskag",
+    "State": "AK"
+  },
+  {
+    "ID": 93,
+    "Tribal Nation": "Village of Kaltag",
+    "State": "AK"
+  },
+  {
+    "ID": 94,
+    "Tribal Nation": "Native Village of Kanatak",
+    "State": "AK"
+  },
+  {
+    "ID": 95,
+    "Tribal Nation": "Native Village of Karluk",
+    "State": "AK"
+  },
+  {
+    "ID": 96,
+    "Tribal Nation": "Organized Village of Kasaan",
+    "State": "AK"
+  },
+  {
+    "ID": 97,
+    "Tribal Nation": "Kasigluk Traditional Elders Council (formerly the Native Village of Kasigluk)",
+    "State": "AK"
+  },
+  {
+    "ID": 98,
+    "Tribal Nation": "Kenaitze Indian Tribe",
+    "State": "AK"
+  },
+  {
+    "ID": 99,
+    "Tribal Nation": "Ketchikan Indian Corporation",
+    "State": "AK"
+  },
+  {
+    "ID": 100,
+    "Tribal Nation": "Native Village of Kiana",
+    "State": "AK"
+  },
+  {
+    "ID": 101,
+    "Tribal Nation": "King Island Native Community",
+    "State": "AK"
+  },
+  {
+    "ID": 102,
+    "Tribal Nation": "King Salmon Tribe",
+    "State": "AK"
+  },
+  {
+    "ID": 103,
+    "Tribal Nation": "Native Village of Kipnuk",
+    "State": "AK"
+  },
+  {
+    "ID": 104,
+    "Tribal Nation": "Native Village of Kivalina",
+    "State": "AK"
+  },
+  {
+    "ID": 105,
+    "Tribal Nation": "Klawock Cooperative Association",
+    "State": "AK"
+  },
+  {
+    "ID": 106,
+    "Tribal Nation": "Native Village of Kluti Kaah (aka Copper Center)",
+    "State": "AK"
+  },
+  {
+    "ID": 107,
+    "Tribal Nation": "Knik Tribe",
+    "State": "AK"
+  },
+  {
+    "ID": 108,
+    "Tribal Nation": "Native Village of Kobuk",
+    "State": "AK"
+  },
+  {
+    "ID": 109,
+    "Tribal Nation": "Kokhanok Village",
+    "State": "AK"
+  },
+  {
+    "ID": 110,
+    "Tribal Nation": "Native Village of Kongiganak",
+    "State": "AK"
+  },
+  {
+    "ID": 111,
+    "Tribal Nation": "Village of Kotlik",
+    "State": "AK"
+  },
+  {
+    "ID": 112,
+    "Tribal Nation": "Native Village of Kotzebue",
+    "State": "AK"
+  },
+  {
+    "ID": 113,
+    "Tribal Nation": "Native Village of Koyuk",
+    "State": "AK"
+  },
+  {
+    "ID": 114,
+    "Tribal Nation": "Koyukuk Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 115,
+    "Tribal Nation": "Organized Village of Kwethluk",
+    "State": "AK"
+  },
+  {
+    "ID": 116,
+    "Tribal Nation": "Native Village of Kwigillingok",
+    "State": "AK"
+  },
+  {
+    "ID": 117,
+    "Tribal Nation": "Native Village of Kwinhagak (aka Quinhagak)",
+    "State": "AK"
+  },
+  {
+    "ID": 118,
+    "Tribal Nation": "Native Village of Larsen Bay",
+    "State": "AK"
+  },
+  {
+    "ID": 119,
+    "Tribal Nation": "Levelock Village",
+    "State": "AK"
+  },
+  {
+    "ID": 120,
+    "Tribal Nation": "Lime Village",
+    "State": "AK"
+  },
+  {
+    "ID": 121,
+    "Tribal Nation": "Village of Lower Kalskag",
+    "State": "AK"
+  },
+  {
+    "ID": 122,
+    "Tribal Nation": "Manley Hot Springs Village",
+    "State": "AK"
+  },
+  {
+    "ID": 123,
+    "Tribal Nation": "Manokotak Village",
+    "State": "AK"
+  },
+  {
+    "ID": 124,
+    "Tribal Nation": "Native Village of Marshall (aka Fortuna Ledge)",
+    "State": "AK"
+  },
+  {
+    "ID": 125,
+    "Tribal Nation": "Native Village of Mary's Igloo",
+    "State": "AK"
+  },
+  {
+    "ID": 126,
+    "Tribal Nation": "McGrath Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 127,
+    "Tribal Nation": "Native Village of Mekoryuk",
+    "State": "AK"
+  },
+  {
+    "ID": 128,
+    "Tribal Nation": "Mentasta Traditional Council",
+    "State": "AK"
+  },
+  {
+    "ID": 129,
+    "Tribal Nation": "Metlakatla Indian Community, Annette Island Reserve",
+    "State": "AK"
+  },
+  {
+    "ID": 130,
+    "Tribal Nation": "Native Village of Minto",
+    "State": "AK"
+  },
+  {
+    "ID": 131,
+    "Tribal Nation": "Naknek Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 132,
+    "Tribal Nation": "Native Village of Nanwalek (aka English Bay)",
+    "State": "AK"
+  },
+  {
+    "ID": 133,
+    "Tribal Nation": "Native Village of Napaimute",
+    "State": "AK"
+  },
+  {
+    "ID": 134,
+    "Tribal Nation": "Native Village of Napakiak",
+    "State": "AK"
+  },
+  {
+    "ID": 135,
+    "Tribal Nation": "Native Village of Napaskiak",
+    "State": "AK"
+  },
+  {
+    "ID": 136,
+    "Tribal Nation": "Native Village of Nelson Lagoon",
+    "State": "AK"
+  },
+  {
+    "ID": 137,
+    "Tribal Nation": "Nenana Native Association",
+    "State": "AK"
+  },
+  {
+    "ID": 138,
+    "Tribal Nation": "New Koliganek Village Council",
+    "State": "AK"
+  },
+  {
+    "ID": 139,
+    "Tribal Nation": "New Stuyahok Village",
+    "State": "AK"
+  },
+  {
+    "ID": 140,
+    "Tribal Nation": "Newhalen Village",
+    "State": "AK"
+  },
+  {
+    "ID": 141,
+    "Tribal Nation": "Newtok Village",
+    "State": "AK"
+  },
+  {
+    "ID": 142,
+    "Tribal Nation": "Native Village of Nightmute",
+    "State": "AK"
+  },
+  {
+    "ID": 143,
+    "Tribal Nation": "Nikolai Village",
+    "State": "AK"
+  },
+  {
+    "ID": 144,
+    "Tribal Nation": "Native Village of Nikolski",
+    "State": "AK"
+  },
+  {
+    "ID": 145,
+    "Tribal Nation": "Ninilchik Village",
+    "State": "AK"
+  },
+  {
+    "ID": 146,
+    "Tribal Nation": "Native Village of Noatak",
+    "State": "AK"
+  },
+  {
+    "ID": 147,
+    "Tribal Nation": "Nome Eskimo Community",
+    "State": "AK"
+  },
+  {
+    "ID": 148,
+    "Tribal Nation": "Nondalton Village",
+    "State": "AK"
+  },
+  {
+    "ID": 149,
+    "Tribal Nation": "Noorvik Native Community",
+    "State": "AK"
+  },
+  {
+    "ID": 150,
+    "Tribal Nation": "Northway Village",
+    "State": "AK"
+  },
+  {
+    "ID": 151,
+    "Tribal Nation": "Native Village of Nuiqsut (aka Nooiksut)",
+    "State": "AK"
+  },
+  {
+    "ID": 152,
+    "Tribal Nation": "Nulato Village",
+    "State": "AK"
+  },
+  {
+    "ID": 153,
+    "Tribal Nation": "Nunakauyarmiut Tribe (formerly the Native Village of Toksook Bay)",
+    "State": "AK"
+  },
+  {
+    "ID": 154,
+    "Tribal Nation": "Native Village of Nunam Iqua (formerly the Native Village of Sheldon's Point)",
+    "State": "AK"
+  },
+  {
+    "ID": 155,
+    "Tribal Nation": "Native Village of Nunapitchuk",
+    "State": "AK"
+  },
+  {
+    "ID": 156,
+    "Tribal Nation": "Village of Ohogamiut",
+    "State": "AK"
+  },
+  {
+    "ID": 157,
+    "Tribal Nation": "Village of Old Harbor",
+    "State": "AK"
+  },
+  {
+    "ID": 158,
+    "Tribal Nation": "Orutsararmuit Native Village (aka Bethel)",
+    "State": "AK"
+  },
+  {
+    "ID": 159,
+    "Tribal Nation": "Oscarville Traditional Village",
+    "State": "AK"
+  },
+  {
+    "ID": 160,
+    "Tribal Nation": "Native Village of Ouzinkie",
+    "State": "AK"
+  },
+  {
+    "ID": 161,
+    "Tribal Nation": "Native Village of Paimiut",
+    "State": "AK"
+  },
+  {
+    "ID": 162,
+    "Tribal Nation": "Pauloff Harbor Village",
+    "State": "AK"
+  },
+  {
+    "ID": 163,
+    "Tribal Nation": "Pedro Bay Village",
+    "State": "AK"
+  },
+  {
+    "ID": 164,
+    "Tribal Nation": "Native Village of Perryville",
+    "State": "AK"
+  },
+  {
+    "ID": 165,
+    "Tribal Nation": "Petersburg Indian Association",
+    "State": "AK"
+  },
+  {
+    "ID": 166,
+    "Tribal Nation": "Native Village of Pilot Point",
+    "State": "AK"
+  },
+  {
+    "ID": 167,
+    "Tribal Nation": "Pilot Station Traditional Village",
+    "State": "AK"
+  },
+  {
+    "ID": 168,
+    "Tribal Nation": "Native Village of Pitka's Point",
+    "State": "AK"
+  },
+  {
+    "ID": 169,
+    "Tribal Nation": "Platinum Traditional Village",
+    "State": "AK"
+  },
+  {
+    "ID": 170,
+    "Tribal Nation": "Native Village of Point Hope",
+    "State": "AK"
+  },
+  {
+    "ID": 171,
+    "Tribal Nation": "Native Village of Point Lay",
+    "State": "AK"
+  },
+  {
+    "ID": 172,
+    "Tribal Nation": "Native Village of Port Graham",
+    "State": "AK"
+  },
+  {
+    "ID": 173,
+    "Tribal Nation": "Native Village of Port Heiden",
+    "State": "AK"
+  },
+  {
+    "ID": 174,
+    "Tribal Nation": "Native Village of Port Lions",
+    "State": "AK"
+  },
+  {
+    "ID": 175,
+    "Tribal Nation": "Portage Creek Village (aka Ohgsenakale)",
+    "State": "AK"
+  },
+  {
+    "ID": 176,
+    "Tribal Nation": "Pribilof Islands Aleut Communities of St. Paul & St. George Islands",
+    "State": "AK"
+  },
+  {
+    "ID": 177,
+    "Tribal Nation": "Qagan Tayagungin Tribe of Sand Point Village",
+    "State": "AK"
+  },
+  {
+    "ID": 178,
+    "Tribal Nation": "Qawalangin Tribe of Unalaska",
+    "State": "AK"
+  },
+  {
+    "ID": 179,
+    "Tribal Nation": "Rampart Village",
+    "State": "AK"
+  },
+  {
+    "ID": 180,
+    "Tribal Nation": "Village of Red Devil",
+    "State": "AK"
+  },
+  {
+    "ID": 181,
+    "Tribal Nation": "Native Village of Ruby",
+    "State": "AK"
+  },
+  {
+    "ID": 182,
+    "Tribal Nation": "Saint George Island (See Pribilof Islands Aleut Communities of St. Paul & St. George Islands)",
+    "State": "AK"
+  },
+  {
+    "ID": 183,
+    "Tribal Nation": "Native Village of Saint Michael",
+    "State": "AK"
+  },
+  {
+    "ID": 184,
+    "Tribal Nation": "Saint Paul Island (See Pribilof Islands Aleut Communities of St. Paul & St. George Islands)",
+    "State": "AK"
+  },
+  {
+    "ID": 185,
+    "Tribal Nation": "Village of Salamatoff",
+    "State": "AK"
+  },
+  {
+    "ID": 186,
+    "Tribal Nation": "Native Village of Savoonga",
+    "State": "AK"
+  },
+  {
+    "ID": 187,
+    "Tribal Nation": "Organized Village of Saxman",
+    "State": "AK"
+  },
+  {
+    "ID": 188,
+    "Tribal Nation": "Native Village of Scammon Bay",
+    "State": "AK"
+  },
+  {
+    "ID": 189,
+    "Tribal Nation": "Native Village of Selawik",
+    "State": "AK"
+  },
+  {
+    "ID": 190,
+    "Tribal Nation": "Seldovia Village Tribe",
+    "State": "AK"
+  },
+  {
+    "ID": 191,
+    "Tribal Nation": "Shageluk Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 192,
+    "Tribal Nation": "Native Village of Shaktoolik",
+    "State": "AK"
+  },
+  {
+    "ID": 193,
+    "Tribal Nation": "Native Village of Shishmaref",
+    "State": "AK"
+  },
+  {
+    "ID": 194,
+    "Tribal Nation": "Native Village of Shungnak",
+    "State": "AK"
+  },
+  {
+    "ID": 195,
+    "Tribal Nation": "Sitka Tribe of Alaska",
+    "State": "AK"
+  },
+  {
+    "ID": 196,
+    "Tribal Nation": "Skagway Village",
+    "State": "AK"
+  },
+  {
+    "ID": 197,
+    "Tribal Nation": "Village of Sleetmute",
+    "State": "AK"
+  },
+  {
+    "ID": 198,
+    "Tribal Nation": "Village of Solomon",
+    "State": "AK"
+  },
+  {
+    "ID": 199,
+    "Tribal Nation": "South Naknek Village",
+    "State": "AK"
+  },
+  {
+    "ID": 200,
+    "Tribal Nation": "Stebbins Community Association",
+    "State": "AK"
+  },
+  {
+    "ID": 201,
+    "Tribal Nation": "Native Village of Stevens",
+    "State": "AK"
+  },
+  {
+    "ID": 202,
+    "Tribal Nation": "Village of Stony River",
+    "State": "AK"
+  },
+  {
+    "ID": 203,
+    "Tribal Nation": "Sun'aq Tribe of Kodiak (formerly the Shoonaq' Tribe of Kodiak)",
+    "State": "AK"
+  },
+  {
+    "ID": 204,
+    "Tribal Nation": "Takotna Village",
+    "State": "AK"
+  },
+  {
+    "ID": 205,
+    "Tribal Nation": "Native Village of Tanacross",
+    "State": "AK"
+  },
+  {
+    "ID": 206,
+    "Tribal Nation": "Native Village of Tanana",
+    "State": "AK"
+  },
+  {
+    "ID": 207,
+    "Tribal Nation": "Tangirnaq Native Village (formerly Lesnoi Village)",
+    "State": "AK"
+  },
+  {
+    "ID": 208,
+    "Tribal Nation": "Native Village of Tatitlek",
+    "State": "AK"
+  },
+  {
+    "ID": 209,
+    "Tribal Nation": "Native Village of Tazlina",
+    "State": "AK"
+  },
+  {
+    "ID": 210,
+    "Tribal Nation": "Telida Village",
+    "State": "AK"
+  },
+  {
+    "ID": 211,
+    "Tribal Nation": "Native Village of Teller",
+    "State": "AK"
+  },
+  {
+    "ID": 212,
+    "Tribal Nation": "Native Village of Tetlin",
+    "State": "AK"
+  },
+  {
+    "ID": 213,
+    "Tribal Nation": "Central Council of the Tlingit & Haida Indian Tribes",
+    "State": "AK"
+  },
+  {
+    "ID": 214,
+    "Tribal Nation": "Traditional Village of Togiak",
+    "State": "AK"
+  },
+  {
+    "ID": 215,
+    "Tribal Nation": "Tuluksak Native Community",
+    "State": "AK"
+  },
+  {
+    "ID": 216,
+    "Tribal Nation": "Native Village of Tuntutuliak",
+    "State": "AK"
+  },
+  {
+    "ID": 217,
+    "Tribal Nation": "Native Village of Tununak",
+    "State": "AK"
+  },
+  {
+    "ID": 218,
+    "Tribal Nation": "Twin Hills Village",
+    "State": "AK"
+  },
+  {
+    "ID": 219,
+    "Tribal Nation": "Native Village of Tyonek",
+    "State": "AK"
+  },
+  {
+    "ID": 220,
+    "Tribal Nation": "Ugashik Village",
+    "State": "AK"
+  },
+  {
+    "ID": 221,
+    "Tribal Nation": "Umkumiute Native Village",
+    "State": "AK"
+  },
+  {
+    "ID": 222,
+    "Tribal Nation": "Native Village of Unalakleet",
+    "State": "AK"
+  },
+  {
+    "ID": 223,
+    "Tribal Nation": "Native Village of Unga",
+    "State": "AK"
+  },
+  {
+    "ID": 224,
+    "Tribal Nation": "Village of Venetie (See Native Village of Venetie Tribal Government)",
+    "State": "AK"
+  },
+  {
+    "ID": 225,
+    "Tribal Nation": "Native Village of Venetie Tribal Government (Arctic Village and Village of Venetie)",
+    "State": "AK"
+  },
+  {
+    "ID": 226,
+    "Tribal Nation": "Village of Wainwright",
+    "State": "AK"
+  },
+  {
+    "ID": 227,
+    "Tribal Nation": "Native Village of Wales",
+    "State": "AK"
+  },
+  {
+    "ID": 228,
+    "Tribal Nation": "Native Village of White Mountain",
+    "State": "AK"
+  },
+  {
+    "ID": 229,
+    "Tribal Nation": "Wrangell Cooperative Association",
+    "State": "AK"
+  },
+  {
+    "ID": 230,
+    "Tribal Nation": "Yakutat Tlingit Tribe",
+    "State": "AK"
+  },
+  {
+    "ID": 231,
+    "Tribal Nation": "Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 232,
+    "Tribal Nation": "Cocopah Tribe of Arizona",
+    "State": "AZ"
+  },
+  {
+    "ID": 233,
+    "Tribal Nation": "Colorado River Indian Tribes of the Colorado River Indian Reservation (Arizona and California)",
+    "State": "AZ"
+  },
+  {
+    "ID": 233,
+    "Tribal Nation": "Colorado River Indian Tribes of the Colorado River Indian Reservation (Arizona and California)",
+    "State": "CA"
+  },
+  {
+    "ID": 234,
+    "Tribal Nation": "Fort McDowell Yavapai Nation",
+    "State": "AZ"
+  },
+  {
+    "ID": 235,
+    "Tribal Nation": "Fort Mojave Indian Tribe (Arizona, California and Nevada)",
+    "State": "AZ"
+  },
+  {
+    "ID": 235,
+    "Tribal Nation": "Fort Mojave Indian Tribe (Arizona, California and Nevada)",
+    "State": "CA"
+  },
+  {
+    "ID": 235,
+    "Tribal Nation": "Fort Mojave Indian Tribe (Arizona, California and Nevada)",
+    "State": "NV"
+  },
+  {
+    "ID": 236,
+    "Tribal Nation": "Gila River Indian Community of the Gila River Indian Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 237,
+    "Tribal Nation": "Havasupai Tribe of the Havasupai Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 238,
+    "Tribal Nation": "Hopi Tribe of Arizona",
+    "State": "AZ"
+  },
+  {
+    "ID": 239,
+    "Tribal Nation": "Hualapai Indian Tribe of the Hualapai Indian Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 240,
+    "Tribal Nation": "Kaibab Band of Paiute Indians of the Kaibab Indian Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 241,
+    "Tribal Nation": "Navajo Nation (Arizona, New Mexico and Utah)",
+    "State": "AZ"
+  },
+  {
+    "ID": 241,
+    "Tribal Nation": "Navajo Nation (Arizona, New Mexico and Utah)",
+    "State": "NM"
+  },
+  {
+    "ID": 241,
+    "Tribal Nation": "Navajo Nation (Arizona, New Mexico and Utah)",
+    "State": "UT"
+  },
+  {
+    "ID": 242,
+    "Tribal Nation": "Pascua Yaqui Tribe of Arizona",
+    "State": "AZ"
+  },
+  {
+    "ID": 243,
+    "Tribal Nation": "Quechan Tribe of the Fort Yuma Indian Reservation (Arizona and California)",
+    "State": "AZ"
+  },
+  {
+    "ID": 243,
+    "Tribal Nation": "Quechan Tribe of the Fort Yuma Indian Reservation (Arizona and California)",
+    "State": "CA"
+  },
+  {
+    "ID": 244,
+    "Tribal Nation": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 244,
+    "Tribal Nation": "Salt River Pima-Maricopa Indian Community of the Salt River Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 245,
+    "Tribal Nation": "San Carlos Apache Tribe of the San Carlos Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 246,
+    "Tribal Nation": "San Juan Southern Paiute Tribe of Arizona",
+    "State": "AZ"
+  },
+  {
+    "ID": 247,
+    "Tribal Nation": "Tohono O’odham Nation of Arizona",
+    "State": "AZ"
+  },
+  {
+    "ID": 248,
+    "Tribal Nation": "Tonto Apache Tribe of Arizona",
+    "State": "AZ"
+  },
+  {
+    "ID": 249,
+    "Tribal Nation": "White Mountain Apache Tribe of the Fort Apache Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 250,
+    "Tribal Nation": "Yavapai-Apache Nation of the Camp Verde Indian Reservation",
+    "State": "AZ"
+  },
+  {
+    "ID": 251,
+    "Tribal Nation": "Yavapai-Prescott Indian Tribe",
+    "State": "AZ"
+  },
+  {
+    "ID": 252,
+    "Tribal Nation": "Agua Caliente Band of Cahuilla Indians of the Agua Caliente Indian Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 253,
+    "Tribal Nation": "Alturas Indian Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 254,
+    "Tribal Nation": "Augustine Band of Cahuilla Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 255,
+    "Tribal Nation": "Bear River Band of the Rohnerville Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 256,
+    "Tribal Nation": "Berry Creek Rancheria of Maidu Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 257,
+    "Tribal Nation": "Big Lagoon Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 258,
+    "Tribal Nation": "Big Pine Band Paiute Tribe of the Owens Valley",
+    "State": "CA"
+  },
+  {
+    "ID": 259,
+    "Tribal Nation": "Big Sandy Rancheria of Western Mono Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 260,
+    "Tribal Nation": "Big Valley Band of Pomo Indians of the Big Valley Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 261,
+    "Tribal Nation": "Bishop Pauite Tribe (previously listed as Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony)",
+    "State": "CA"
+  },
+  {
+    "ID": 262,
+    "Tribal Nation": "Blue Lake Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 263,
+    "Tribal Nation": "Bridgeport Indian Colony",
+    "State": "CA"
+  },
+  {
+    "ID": 264,
+    "Tribal Nation": "Buena Vista Rancheria of Me-Wuk Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 265,
+    "Tribal Nation": "Cabazon Band of Mission Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 266,
+    "Tribal Nation": "Cachil DeHe Band of Wintun Indians of the Colusa Indian Community of the Colusa Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 267,
+    "Tribal Nation": "Cahuilla Band of Mission Indians of the Cahuilla Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 268,
+    "Tribal Nation": "Cahto Indian Tribe of the Laytonville Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 269,
+    "Tribal Nation": "California Valley Miwok Tribe",
+    "State": "CA"
+  },
+  {
+    "ID": 270,
+    "Tribal Nation": "Campo Band of Diegueño Mission Indians of the Campo Indian Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 271,
+    "Tribal Nation": "Capitan Grande Band of Diegueño Mission Indians of California:Barona Group of Capitan Grande Band of Mission Indians of the Barona Reservation; Viejas (Baron Long) Group of Capitan Grande Band of Mission Indians of the Viejas Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 272,
+    "Tribal Nation": "Cedarville Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 273,
+    "Tribal Nation": "Chemehuevi Indian Tribe of the Chemehuevi Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 274,
+    "Tribal Nation": "Cher-Ae Heights Indian Community of the Trinidad Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 275,
+    "Tribal Nation": "Chicken Ranch Rancheria of Me-Wuk Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 276,
+    "Tribal Nation": "Cloverdale Rancheria of Pomo Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 277,
+    "Tribal Nation": "Cold Springs Rancheria of Mono Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 278,
+    "Tribal Nation": "Cortina Indian Rancheria of Wintun Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 279,
+    "Tribal Nation": "Coyote Valley Band of Pomo Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 280,
+    "Tribal Nation": "Death Valley Timbi-Sha Shoshone Tribe",
+    "State": "CA"
+  },
+  {
+    "ID": 281,
+    "Tribal Nation": "Dry Creek Rancheria of Pomo Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 282,
+    "Tribal Nation": "Elem Indian Colony of Pomo Indians of the Sulphur Bank Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 283,
+    "Tribal Nation": "Elk Valley Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 284,
+    "Tribal Nation": "Enterprise Rancheria of Maidu Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 285,
+    "Tribal Nation": "Ewiiaapaayp Band of Kumeyaay Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 286,
+    "Tribal Nation": "Federated Indians of Graton Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 287,
+    "Tribal Nation": "Fort Bidwell Indian Community of the Fort Bidwell Reservation of California",
+    "State": "CA"
+  },
+  {
+    "ID": 288,
+    "Tribal Nation": "Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 289,
+    "Tribal Nation": "Greenville Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 290,
+    "Tribal Nation": "Grindstone Indian Rancheria of Wintun-Wailaki Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 291,
+    "Tribal Nation": "Guidiville Rancheria of California",
+    "State": "CA"
+  },
+  {
+    "ID": 292,
+    "Tribal Nation": "Habematolel Pomo of Upper Lake",
+    "State": "CA"
+  },
+  {
+    "ID": 293,
+    "Tribal Nation": "Hoopa Valley Tribe",
+    "State": "CA"
+  },
+  {
+    "ID": 294,
+    "Tribal Nation": "Hopland Band of Pomo Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 295,
+    "Tribal Nation": "Inaja Band of Diegueño Mission Indians of the Inaja and Cosmit Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 296,
+    "Tribal Nation": "Ione Band of Miwok Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 297,
+    "Tribal Nation": "Jackson Band of Miwuk Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 298,
+    "Tribal Nation": "Jamul Indian Village of California",
+    "State": "CA"
+  },
+  {
+    "ID": 299,
+    "Tribal Nation": "Karuk Tribe",
+    "State": "CA"
+  },
+  {
+    "ID": 300,
+    "Tribal Nation": "Kashia Band of Pomo Indians of the Stewart’s Point Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 301,
+    "Tribal Nation": "Koi Nation of Northern California",
+    "State": "CA"
+  },
+  {
+    "ID": 302,
+    "Tribal Nation": "La Jolla Band of Luiseño Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 303,
+    "Tribal Nation": "La Posta Band of Diegueño Mission Indians of the La Posta Indian Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 304,
+    "Tribal Nation": "Lone Pine Paiute-Shoshone Tribe",
+    "State": "CA"
+  },
+  {
+    "ID": 305,
+    "Tribal Nation": "Los Coyotes Band of Cahuilla & Cupeno Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 306,
+    "Tribal Nation": "Lytton Rancheria of California",
+    "State": "CA"
+  },
+  {
+    "ID": 307,
+    "Tribal Nation": "Manchester Band of Pomo Indians of the Manchester Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 308,
+    "Tribal Nation": "Manzanita Band of Diegueño Mission Indians of the Manzanita Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 309,
+    "Tribal Nation": "Mechoopda Indian Tribe of Chico Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 310,
+    "Tribal Nation": "Mesa Grande Band of Diegueño Mission Indians of the Mesa Grande Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 311,
+    "Tribal Nation": "Middletown Rancheria of Pomo Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 312,
+    "Tribal Nation": "Mooretown Rancheria of Maidu Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 313,
+    "Tribal Nation": "Morongo Band of Cahuilla Mission Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 314,
+    "Tribal Nation": "Northfork Rancheria of Mono Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 315,
+    "Tribal Nation": "Pala Band of Luiseño Mission Indians of the Pala Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 316,
+    "Tribal Nation": "Paskenta Band of Nomlaki Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 317,
+    "Tribal Nation": "Pauma Band of Luiseño Mission Indians of the Pauma & Yuima Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 318,
+    "Tribal Nation": "Pechanga Band of Luiseño Mission Indians of the Pechanga Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 319,
+    "Tribal Nation": "Picayune Rancheria of Chukchansi Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 320,
+    "Tribal Nation": "Pinoleville Pomo Nation (formerly the Pinoleville Rancheria of Pomo Indians of California)",
+    "State": "CA"
+  },
+  {
+    "ID": 321,
+    "Tribal Nation": "Pit River Tribe (includes XL Ranch, Big Bend, Likely, Lookout, Montgomery Creek and Roaring Creek Rancherias)",
+    "State": "CA"
+  },
+  {
+    "ID": 322,
+    "Tribal Nation": "Potter Valley Tribe (formerly the Potter Valley Rancheria of Pomo Indians of California)",
+    "State": "CA"
+  },
+  {
+    "ID": 323,
+    "Tribal Nation": "Quartz Valley Indian Community of the Quartz Valley Reservation of California",
+    "State": "CA"
+  },
+  {
+    "ID": 324,
+    "Tribal Nation": "Ramona Band of Cahuilla",
+    "State": "CA"
+  },
+  {
+    "ID": 325,
+    "Tribal Nation": "Redding Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 326,
+    "Tribal Nation": "Redwood Valley or Little River Band of Pomo Indians of the Redwood Valley Rancheria California",
+    "State": "CA"
+  },
+  {
+    "ID": 327,
+    "Tribal Nation": "Resighini Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 328,
+    "Tribal Nation": "Rincon Band of Luiseño Mission Indians of the Rincon Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 329,
+    "Tribal Nation": "Robinson Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 330,
+    "Tribal Nation": "Round Valley Indian Tribes, Round Valley Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 331,
+    "Tribal Nation": "San Manual Band of Serrano Mission Indians of the San Maual Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 332,
+    "Tribal Nation": "San Pasqual Band of Diegueño Mission Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 333,
+    "Tribal Nation": "Santa Rosa Indian Community of the Santa Rosa Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 334,
+    "Tribal Nation": "Santa Rosa Band of Cahuilla Indians (formerly the Santa Rosa Band of Cahuilla Mission Indians of the Santa Rosa Reservation)",
+    "State": "CA"
+  },
+  {
+    "ID": 335,
+    "Tribal Nation": "Santa Ynez Band of Chumash Mission Indians of the Santa Ynez Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 336,
+    "Tribal Nation": "Lipay Nation of Santa Ysabel (Previously listed as the Santa Ysabel Band of Diegueño Mission Indians of the Santa Ysabel Reservation)",
+    "State": "CA"
+  },
+  {
+    "ID": 337,
+    "Tribal Nation": "Scotts Valley Band of Pomo Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 338,
+    "Tribal Nation": "Sheep Ranch Rancheria of Me-Wuk Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 339,
+    "Tribal Nation": "Sherwood Valley Rancheria of Pomo Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 340,
+    "Tribal Nation": "Shingle Springs Band of Miwok Indians, Shingle Springs Rancheria (Verona Tract)",
+    "State": "CA"
+  },
+  {
+    "ID": 341,
+    "Tribal Nation": "Soboba Band of Luiseño Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 342,
+    "Tribal Nation": "Susanville Indian Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 343,
+    "Tribal Nation": "Sycuan Band of the Kumeyaay Nation (formerly the Sycuan Band of Diegueno Mission Indians of California)",
+    "State": "CA"
+  },
+  {
+    "ID": 344,
+    "Tribal Nation": "Table Mountain Rancheria of California",
+    "State": "CA"
+  },
+  {
+    "ID": 345,
+    "Tribal Nation": "Tejon Indian Tribe",
+    "State": "CA"
+  },
+  {
+    "ID": 346,
+    "Tribal Nation": "Tolowa Dee-ni' Nation",
+    "State": "CA"
+  },
+  {
+    "ID": 347,
+    "Tribal Nation": "Torres-Martinez Desert Cahuilla Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 348,
+    "Tribal Nation": "Tule River Indian Tribe of the Tule River Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 349,
+    "Tribal Nation": "Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria of California",
+    "State": "CA"
+  },
+  {
+    "ID": 350,
+    "Tribal Nation": "Twenty-Nine Palms Band of Mission Indians of California",
+    "State": "CA"
+  },
+  {
+    "ID": 351,
+    "Tribal Nation": "United Auburn Indian Community of the Auburn Rancheria of California",
+    "State": "CA"
+  },
+  {
+    "ID": 352,
+    "Tribal Nation": "Upper Lake Band of Pomo Indians",
+    "State": "CA"
+  },
+  {
+    "ID": 353,
+    "Tribal Nation": "Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 354,
+    "Tribal Nation": "Washoe Tribe (Carson Colony, Dresslerville Colony, Woodfords Community, Stewart Community and Washoe Ranches) (California and Nevada)",
+    "State": "CA"
+  },
+  {
+    "ID": 355,
+    "Tribal Nation": "Wilton Rancheria",
+    "State": "CA"
+  },
+  {
+    "ID": 356,
+    "Tribal Nation": "Wiyot Tribe (formerly the Table Bluff Reservation-Wiyot Tribe)",
+    "State": "CA"
+  },
+  {
+    "ID": 357,
+    "Tribal Nation": "Yocha Dehe Wintun Nation",
+    "State": "CA"
+  },
+  {
+    "ID": 358,
+    "Tribal Nation": "Yurok Tribe of the Yurok Reservation",
+    "State": "CA"
+  },
+  {
+    "ID": 359,
+    "Tribal Nation": "Southern Ute Indian Tribe of the Southern Ute Reservation",
+    "State": "CO"
+  },
+  {
+    "ID": 360,
+    "Tribal Nation": "Ute Mountain Tribe of the Ute Mountain Reservation (Colorado, New Mexico and Utah)",
+    "State": "CO"
+  },
+  {
+    "ID": 360,
+    "Tribal Nation": "Ute Mountain Tribe of the Ute Mountain Reservation (Colorado, New Mexico and Utah)",
+    "State": "NM"
+  },
+  {
+    "ID": 360,
+    "Tribal Nation": "Ute Mountain Tribe of the Ute Mountain Reservation (Colorado, New Mexico and Utah)",
+    "State": "UT"
+  },
+  {
+    "ID": 361,
+    "Tribal Nation": "Mashantucket Pequot Tribe",
+    "State": "CO"
+  },
+  {
+    "ID": 362,
+    "Tribal Nation": "Mohegan Tribe of Indians of Connecticut",
+    "State": "CO"
+  },
+  {
+    "ID": 363,
+    "Tribal Nation": "Miccosukee Tribe of Indians of Florida",
+    "State": "FL"
+  },
+  {
+    "ID": 364,
+    "Tribal Nation": "Seminole Tribe of Florida (Dania, Big Cypress, Brighton, Hollywood and Tampa Reservations)",
+    "State": "FL"
+  },
+  {
+    "ID": 365,
+    "Tribal Nation": "Coeur D’Alene Tribe",
+    "State": "ID"
+  },
+  {
+    "ID": 366,
+    "Tribal Nation": "Kootenai Tribe of Idaho",
+    "State": "ID"
+  },
+  {
+    "ID": 367,
+    "Tribal Nation": "Nez Perce Tribe",
+    "State": "ID"
+  },
+  {
+    "ID": 368,
+    "Tribal Nation": "Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho",
+    "State": "ID"
+  },
+  {
+    "ID": 369,
+    "Tribal Nation": "Pokagon Band of Potawatomi Indians (Michigan and Indiana)",
+    "State": "IN"
+  },
+  {
+    "ID": 369,
+    "Tribal Nation": "Pokagon Band of Potawatomi Indians (Michigan and Indiana)",
+    "State": "MI"
+  },
+  {
+    "ID": 370,
+    "Tribal Nation": "Sac & Fox Tribe of the Mississippi in Iowa",
+    "State": "IA"
+  },
+  {
+    "ID": 371,
+    "Tribal Nation": "Iowa Tribe of Kansas and Nebraska",
+    "State": "KS"
+  },
+  {
+    "ID": 372,
+    "Tribal Nation": "Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas",
+    "State": "KS"
+  },
+  {
+    "ID": 373,
+    "Tribal Nation": "Prairie Band Potawatomi Nation",
+    "State": "KS"
+  },
+  {
+    "ID": 374,
+    "Tribal Nation": "Sac & Fox Nation of Missouri (Kansas and Nebraska)",
+    "State": "KS"
+  },
+  {
+    "ID": 374,
+    "Tribal Nation": "Sac & Fox Nation of Missouri (Kansas and Nebraska)",
+    "State": "NE"
+  },
+  {
+    "ID": 375,
+    "Tribal Nation": "Chitimacha Tribe of Louisiana",
+    "State": "LA"
+  },
+  {
+    "ID": 376,
+    "Tribal Nation": "Coushatta Tribe of Louisiana",
+    "State": "LA"
+  },
+  {
+    "ID": 377,
+    "Tribal Nation": "Jena Band of Choctaw Indians",
+    "State": "LA"
+  },
+  {
+    "ID": 378,
+    "Tribal Nation": "Tunica-Biloxi Indian Tribe of Louisiana",
+    "State": "LA"
+  },
+  {
+    "ID": 379,
+    "Tribal Nation": "Aroostook Band of Micmac Indians",
+    "State": "ME"
+  },
+  {
+    "ID": 380,
+    "Tribal Nation": "Houlton Band of Maliseet Indians",
+    "State": "ME"
+  },
+  {
+    "ID": 381,
+    "Tribal Nation": "Passamaquoddy Tribe",
+    "State": "ME"
+  },
+  {
+    "ID": 382,
+    "Tribal Nation": "Penobscot Nation",
+    "State": "ME"
+  },
+  {
+    "ID": 383,
+    "Tribal Nation": "Mashpee Wampanoag Tribe",
+    "State": "MA"
+  },
+  {
+    "ID": 384,
+    "Tribal Nation": "Wampanoag Tribe of Gay Head (Aquinnah) of Massachusetts",
+    "State": "MA"
+  },
+  {
+    "ID": 385,
+    "Tribal Nation": "Bay Mills Indian Community",
+    "State": "MI"
+  },
+  {
+    "ID": 386,
+    "Tribal Nation": "Grand Traverse Band of Ottawa and Chippewa Indians",
+    "State": "MI"
+  },
+  {
+    "ID": 387,
+    "Tribal Nation": "Hannahville Indian Community",
+    "State": "MI"
+  },
+  {
+    "ID": 388,
+    "Tribal Nation": "Nottawaseppi Huron Band of the Potawatomi",
+    "State": "MI"
+  },
+  {
+    "ID": 389,
+    "Tribal Nation": "Keweenaw Bay Indian Community",
+    "State": "MI"
+  },
+  {
+    "ID": 390,
+    "Tribal Nation": "Lac Vieux Desert Band of Lake Superior Chippewa Indians of Michigan",
+    "State": "MI"
+  },
+  {
+    "ID": 391,
+    "Tribal Nation": "Little River Band of Ottawa Indians",
+    "State": "MI"
+  },
+  {
+    "ID": 392,
+    "Tribal Nation": "Little Traverse Bay Bands of Odawa Indians",
+    "State": "MI"
+  },
+  {
+    "ID": 393,
+    "Tribal Nation": "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
+    "State": "MI"
+  },
+  {
+    "ID": 394,
+    "Tribal Nation": "Saginaw Chippewa Indian Tribe of Michigan",
+    "State": "MI"
+  },
+  {
+    "ID": 395,
+    "Tribal Nation": "Sault Ste. Marie Tribe of Chippewa Indians of Michigan",
+    "State": "MI"
+  },
+  {
+    "ID": 396,
+    "Tribal Nation": "Lower Sioux Indian Community in the State of Minnesota",
+    "State": "MN"
+  },
+  {
+    "ID": 397,
+    "Tribal Nation": "Mdewakanton Sioux Indians",
+    "State": "MN"
+  },
+  {
+    "ID": 398,
+    "Tribal Nation": "Minnesota Chippewa Tribe (Six component reservations: Bois Forte Band (Nett Lake);Fond du Lac Band; Grand Portage Band; Leech Lake Band; Mille Lacs Ban; White Earth Band)",
+    "State": "MN"
+  },
+  {
+    "ID": 399,
+    "Tribal Nation": "Prairie Island Indian Community in the State of Minnesota",
+    "State": "MN"
+  },
+  {
+    "ID": 400,
+    "Tribal Nation": "Red Lake Band of Chippewa Indians",
+    "State": "MN"
+  },
+  {
+    "ID": 401,
+    "Tribal Nation": "Shakopee Mdewakanton Sioux Community of Minnesota",
+    "State": "MN"
+  },
+  {
+    "ID": 402,
+    "Tribal Nation": "Upper Sioux Community",
+    "State": "MN"
+  },
+  {
+    "ID": 403,
+    "Tribal Nation": "Mississippi Band of Choctaw Indians",
+    "State": "MS"
+  },
+  {
+    "ID": 404,
+    "Tribal Nation": "Montana",
+    "State": "MT"
+  },
+  {
+    "ID": 405,
+    "Tribal Nation": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation",
+    "State": "MT"
+  },
+  {
+    "ID": 406,
+    "Tribal Nation": "Blackfeet Tribe of the Blackfeet Indian Reservation of Montana",
+    "State": "MT"
+  },
+  {
+    "ID": 407,
+    "Tribal Nation": "Chippewa-Cree Indians of the Rocky Boy's Reservation",
+    "State": "MT"
+  },
+  {
+    "ID": 408,
+    "Tribal Nation": "Confederated Salish and Kootenai Tribes of the Flathead Reservation",
+    "State": "MT"
+  },
+  {
+    "ID": 409,
+    "Tribal Nation": "Crow Tribe of Montana",
+    "State": "MT"
+  },
+  {
+    "ID": 410,
+    "Tribal Nation": "Fort Belknap Indian Community of the Fort Belknap Reservation of Montana",
+    "State": "MT"
+  },
+  {
+    "ID": 411,
+    "Tribal Nation": "Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation",
+    "State": "MT"
+  },
+  {
+    "ID": 412,
+    "Tribal Nation": "Omaha Tribe of Nebraska",
+    "State": "NE"
+  },
+  {
+    "ID": 413,
+    "Tribal Nation": "Ponca Tribe of Nebraska",
+    "State": "NE"
+  },
+  {
+    "ID": 414,
+    "Tribal Nation": "Santee Sioux Nation",
+    "State": "NE"
+  },
+  {
+    "ID": 415,
+    "Tribal Nation": "Winnebago Tribe of Nebraska",
+    "State": "NE"
+  },
+  {
+    "ID": 416,
+    "Tribal Nation": "Confederated Tribes of the Goshute Reservation (Nevada and Utah)",
+    "State": "NV"
+  },
+  {
+    "ID": 416,
+    "Tribal Nation": "Confederated Tribes of the Goshute Reservation (Nevada and Utah)",
+    "State": "UT"
+  },
+  {
+    "ID": 417,
+    "Tribal Nation": "Duckwater Shoshone Tribe of the Duckwater Reservation",
+    "State": "NV"
+  },
+  {
+    "ID": 418,
+    "Tribal Nation": "Ely Shoshone Tribe of Nevada",
+    "State": "NV"
+  },
+  {
+    "ID": 419,
+    "Tribal Nation": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation (Nevada and Oregon)",
+    "State": "NV"
+  },
+  {
+    "ID": 419,
+    "Tribal Nation": "Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation (Nevada and Oregon)",
+    "State": "OR"
+  },
+  {
+    "ID": 420,
+    "Tribal Nation": "Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony",
+    "State": "NV"
+  },
+  {
+    "ID": 421,
+    "Tribal Nation": "Lovelock Paiute Tribe of the Lovelock Indian Colony",
+    "State": "NV"
+  },
+  {
+    "ID": 422,
+    "Tribal Nation": "Moapa Band of Paiute Indians of the Moapa River Indian Reservation",
+    "State": "NV"
+  },
+  {
+    "ID": 423,
+    "Tribal Nation": "Paiute-Shoshone Tribe of the Fallon Reservation and Colony",
+    "State": "NV"
+  },
+  {
+    "ID": 424,
+    "Tribal Nation": "Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation",
+    "State": "NV"
+  },
+  {
+    "ID": 425,
+    "Tribal Nation": "Reno-Sparks Indian Colony",
+    "State": "NV"
+  },
+  {
+    "ID": 426,
+    "Tribal Nation": "Shoshone-Paiute Tribes of the Duck Valley Reservation",
+    "State": "NV"
+  },
+  {
+    "ID": 427,
+    "Tribal Nation": "Summit Lake Paiute Tribe of Nevada",
+    "State": "NV"
+  },
+  {
+    "ID": 428,
+    "Tribal Nation": "Te-Moak Tribe of Western Shoshone Indians of Nevada (Four constituent bands: Battle Mountain Band; Elko Band; South Fork Band; Wells Band)",
+    "State": "NV"
+  },
+  {
+    "ID": 429,
+    "Tribal Nation": "Walker River Paiute Tribe of the Walker River Reservation",
+    "State": "NV"
+  },
+  {
+    "ID": 430,
+    "Tribal Nation": "Washoe Tribe (Nevada and California) (Carson Colony, Dresslerville Colony, Woodfords Community, Stewart Community and Washoe Ranches)",
+    "State": "NV"
+  },
+  {
+    "ID": 431,
+    "Tribal Nation": "Winnemucca Indian Colony of Nevada",
+    "State": "NV"
+  },
+  {
+    "ID": 432,
+    "Tribal Nation": "Yerington Paiute Tribe of the Yerington Colony & Campbell Ranch",
+    "State": "NV"
+  },
+  {
+    "ID": 433,
+    "Tribal Nation": "Yomba Shoshone Tribe of the Yomba Reservation",
+    "State": "NV"
+  },
+  {
+    "ID": 434,
+    "Tribal Nation": "Jicarilla Apache Nation",
+    "State": "NM"
+  },
+  {
+    "ID": 435,
+    "Tribal Nation": "Mescalero Apache Tribe of the Mescalero Reservation",
+    "State": "NM"
+  },
+  {
+    "ID": 436,
+    "Tribal Nation": "Ohkay Owingeh (formerly the Pueblo of San Juan)",
+    "State": "NM"
+  },
+  {
+    "ID": 437,
+    "Tribal Nation": "Pueblo of Acoma",
+    "State": "NM"
+  },
+  {
+    "ID": 438,
+    "Tribal Nation": "Pueblo of Cochiti",
+    "State": "NM"
+  },
+  {
+    "ID": 439,
+    "Tribal Nation": "Pueblo of Jemez",
+    "State": "NM"
+  },
+  {
+    "ID": 440,
+    "Tribal Nation": "Pueblo of Isleta",
+    "State": "NM"
+  },
+  {
+    "ID": 441,
+    "Tribal Nation": "Pueblo of Laguna",
+    "State": "NM"
+  },
+  {
+    "ID": 442,
+    "Tribal Nation": "Pueblo of Nambe",
+    "State": "NM"
+  },
+  {
+    "ID": 443,
+    "Tribal Nation": "Pueblo of Picuris",
+    "State": "NM"
+  },
+  {
+    "ID": 444,
+    "Tribal Nation": "Pueblo of Pojoaque",
+    "State": "NM"
+  },
+  {
+    "ID": 445,
+    "Tribal Nation": "Pueblo of San Felipe",
+    "State": "NM"
+  },
+  {
+    "ID": 446,
+    "Tribal Nation": "Pueblo of San Ildefonso",
+    "State": "NM"
+  },
+  {
+    "ID": 447,
+    "Tribal Nation": "Pueblo of Sandia",
+    "State": "NM"
+  },
+  {
+    "ID": 448,
+    "Tribal Nation": "Pueblo of Santa Ana",
+    "State": "NM"
+  },
+  {
+    "ID": 449,
+    "Tribal Nation": "Pueblo of Santa Clara",
+    "State": "NM"
+  },
+  {
+    "ID": 450,
+    "Tribal Nation": "Kewa Pueblo",
+    "State": "NM"
+  },
+  {
+    "ID": 451,
+    "Tribal Nation": "Pueblo of Taos",
+    "State": "NM"
+  },
+  {
+    "ID": 452,
+    "Tribal Nation": "Pueblo of Tesuque",
+    "State": "NM"
+  },
+  {
+    "ID": 453,
+    "Tribal Nation": "Pueblo of Zia",
+    "State": "NM"
+  },
+  {
+    "ID": 454,
+    "Tribal Nation": "Zuni Tribe of the Zuni Reservation",
+    "State": "NM"
+  },
+  {
+    "ID": 455,
+    "Tribal Nation": "Cayuga Nation",
+    "State": "NY"
+  },
+  {
+    "ID": 456,
+    "Tribal Nation": "Oneida Nation of New York",
+    "State": "NY"
+  },
+  {
+    "ID": 457,
+    "Tribal Nation": "Onondaga Nation",
+    "State": "NY"
+  },
+  {
+    "ID": 458,
+    "Tribal Nation": "Saint Regis Mohawk Tribe (formerly the St. Regis Band of Mohawk Indians of New York)",
+    "State": "NY"
+  },
+  {
+    "ID": 459,
+    "Tribal Nation": "Seneca Nation of Indians",
+    "State": "NY"
+  },
+  {
+    "ID": 460,
+    "Tribal Nation": "Shinnecock Indian Nation",
+    "State": "NY"
+  },
+  {
+    "ID": 461,
+    "Tribal Nation": "Tonawanda Band of Seneca",
+    "State": "NY"
+  },
+  {
+    "ID": 462,
+    "Tribal Nation": "Tuscarora Nation of New York",
+    "State": "NY"
+  },
+  {
+    "ID": 463,
+    "Tribal Nation": "Eastern Band of Cherokee Indians",
+    "State": "NC"
+  },
+  {
+    "ID": 464,
+    "Tribal Nation": "Spirit Lake Tribe",
+    "State": "ND"
+  },
+  {
+    "ID": 465,
+    "Tribal Nation": "Standing Rock Sioux Tribe (North Dakota and South Dakota)",
+    "State": "ND"
+  },
+  {
+    "ID": 465,
+    "Tribal Nation": "Standing Rock Sioux Tribe (North Dakota and South Dakota)",
+    "State": "SD"
+  },
+  {
+    "ID": 466,
+    "Tribal Nation": "Three Affiliated Tribes of the Fort Berthold Reservation",
+    "State": "ND"
+  },
+  {
+    "ID": 467,
+    "Tribal Nation": "Turtle Mountain Band of Chippewa Indians of North Dakota",
+    "State": "ND"
+  },
+  {
+    "ID": 468,
+    "Tribal Nation": "Absentee-Shawnee Tribe of Indians",
+    "State": "OK"
+  },
+  {
+    "ID": 469,
+    "Tribal Nation": "Alabama-Quassarte Tribal Town",
+    "State": "OK"
+  },
+  {
+    "ID": 470,
+    "Tribal Nation": "Apache Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 471,
+    "Tribal Nation": "Caddo Nation of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 472,
+    "Tribal Nation": "Cherokee Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 473,
+    "Tribal Nation": "Cheyenne and Arapaho Tribes",
+    "State": "OK"
+  },
+  {
+    "ID": 474,
+    "Tribal Nation": "Citizen Potawatomi Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 475,
+    "Tribal Nation": "Comanche Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 476,
+    "Tribal Nation": "Delaware Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 477,
+    "Tribal Nation": "Delaware Tribe of Indians",
+    "State": "OK"
+  },
+  {
+    "ID": 478,
+    "Tribal Nation": "Eastern Shawnee Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 479,
+    "Tribal Nation": "Fort Sill Apache Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 480,
+    "Tribal Nation": "Iowa Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 481,
+    "Tribal Nation": "Kaw Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 482,
+    "Tribal Nation": "Kialegee Tribal Town",
+    "State": "OK"
+  },
+  {
+    "ID": 483,
+    "Tribal Nation": "Kickapoo Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 484,
+    "Tribal Nation": "Kiowa Indian Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 485,
+    "Tribal Nation": "Miami Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 486,
+    "Tribal Nation": "Modoc Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 487,
+    "Tribal Nation": "Muscogee (Creek) Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 488,
+    "Tribal Nation": "Ottawa Tribe of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 489,
+    "Tribal Nation": "Otoe-Missouria Tribe of Indians",
+    "State": "OK"
+  },
+  {
+    "ID": 490,
+    "Tribal Nation": "Pawnee Nation of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 491,
+    "Tribal Nation": "Peoria Tribe of Indians of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 492,
+    "Tribal Nation": "Ponca Tribe of Indians of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 493,
+    "Tribal Nation": "Quapaw Tribe of Indians",
+    "State": "OK"
+  },
+  {
+    "ID": 494,
+    "Tribal Nation": "Sac & Fox Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 495,
+    "Tribal Nation": "Seminole Nation of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 496,
+    "Tribal Nation": "Seneca-Cayuga Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 497,
+    "Tribal Nation": "Shawnee Tribe",
+    "State": "OK"
+  },
+  {
+    "ID": 498,
+    "Tribal Nation": "The Chickasaw Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 499,
+    "Tribal Nation": "The Choctaw Nation of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 500,
+    "Tribal Nation": "The Osage Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 501,
+    "Tribal Nation": "Thlopthlocco Tribal Town",
+    "State": "OK"
+  },
+  {
+    "ID": 502,
+    "Tribal Nation": "Tonkawa Tribe of Indians of Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 503,
+    "Tribal Nation": "United Keetoowah Band of Cherokee Indians in Oklahoma",
+    "State": "OK"
+  },
+  {
+    "ID": 504,
+    "Tribal Nation": "Wichita and Affiliated Tribes (Wichita, Keechi, Waco and Tawakonie)",
+    "State": "OK"
+  },
+  {
+    "ID": 505,
+    "Tribal Nation": "Wyandotte Nation",
+    "State": "OK"
+  },
+  {
+    "ID": 506,
+    "Tribal Nation": "Burns Paiute Tribe",
+    "State": "OR"
+  },
+  {
+    "ID": 507,
+    "Tribal Nation": "Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon",
+    "State": "OR"
+  },
+  {
+    "ID": 508,
+    "Tribal Nation": "Confederated Tribes of the Grand Ronde Community of Oregon",
+    "State": "OR"
+  },
+  {
+    "ID": 509,
+    "Tribal Nation": "Confederated Tribes of the Siletz Reservation",
+    "State": "OR"
+  },
+  {
+    "ID": 510,
+    "Tribal Nation": "Confederated Tribes of the Umatilla Indian Reservation",
+    "State": "OR"
+  },
+  {
+    "ID": 511,
+    "Tribal Nation": "Confederated Tribes of the Warm Springs Reservation of Oregon",
+    "State": "OR"
+  },
+  {
+    "ID": 512,
+    "Tribal Nation": "Coquille Indian Tribe",
+    "State": "OR"
+  },
+  {
+    "ID": 513,
+    "Tribal Nation": "Cow Creek Band of Umpqua Tribe of Indians",
+    "State": "OR"
+  },
+  {
+    "ID": 514,
+    "Tribal Nation": "Klamath Tribes",
+    "State": "OR"
+  },
+  {
+    "ID": 515,
+    "Tribal Nation": "Narragansett Indian Tribe",
+    "State": "RI"
+  },
+  {
+    "ID": 516,
+    "Tribal Nation": "Catawba Indian Nation (Catawba Tribe of South Carolina)",
+    "State": "SC"
+  },
+  {
+    "ID": 517,
+    "Tribal Nation": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation",
+    "State": "SD"
+  },
+  {
+    "ID": 518,
+    "Tribal Nation": "Crow Creek Sioux Tribe of the Crow Creek Reservation",
+    "State": "SD"
+  },
+  {
+    "ID": 519,
+    "Tribal Nation": "Flandreau Santee Sioux Tribe of South Dakota",
+    "State": "SD"
+  },
+  {
+    "ID": 520,
+    "Tribal Nation": "Lower Brule Sioux Tribe of the Lower Brule Reservation",
+    "State": "SD"
+  },
+  {
+    "ID": 521,
+    "Tribal Nation": "Oglala Sioux Tribe (previously listed as Oglala Sioux Tribe of the Pine Ridge Reservation)",
+    "State": "SD"
+  },
+  {
+    "ID": 522,
+    "Tribal Nation": "Rosebud Sioux Tribe of the Rosebud Indian Reservation",
+    "State": "SD"
+  },
+  {
+    "ID": 523,
+    "Tribal Nation": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation",
+    "State": "SD"
+  },
+  {
+    "ID": 524,
+    "Tribal Nation": "Yankton Sioux Tribe of South Dakota",
+    "State": "SD"
+  },
+  {
+    "ID": 525,
+    "Tribal Nation": "Alabama-Coushatta Tribe of Texas",
+    "State": "TX"
+  },
+  {
+    "ID": 526,
+    "Tribal Nation": "Kickapoo Traditional Tribe of Texas",
+    "State": "TX"
+  },
+  {
+    "ID": 527,
+    "Tribal Nation": "Ysleta Del Sur Pueblo",
+    "State": "TX"
+  },
+  {
+    "ID": 528,
+    "Tribal Nation": "Northwestern Band of Shoshoni Nation",
+    "State": "UT"
+  },
+  {
+    "ID": 529,
+    "Tribal Nation": "Paiute Indian Tribe of Utah (Cedar Band of Paiutes, Kanosh Band of Paiutes,Koosharem Band of Paiutes, Indian Peaks Band of Paiutes, and Shivwits Band of Paiutes)",
+    "State": "UT"
+  },
+  {
+    "ID": 530,
+    "Tribal Nation": "Skull Valley Band of Goshute Indians of Utah",
+    "State": "UT"
+  },
+  {
+    "ID": 531,
+    "Tribal Nation": "Ute Indian Tribe of the Uintah and Ouray Reservation",
+    "State": "UT"
+  },
+  {
+    "ID": 532,
+    "Tribal Nation": "Ute Mountain Ute Tribe (Colorado, New Mexico and Utah)",
+    "State": "UT"
+  },
+  {
+    "ID": 533,
+    "Tribal Nation": "Pamunkey Indian Tribe",
+    "State": "VA"
+  },
+  {
+    "ID": 534,
+    "Tribal Nation": "Chickahominy Indian Tribe",
+    "State": "VA"
+  },
+  {
+    "ID": 535,
+    "Tribal Nation": "Chickahominy Indian Tribe-Eastern Division",
+    "State": "VA"
+  },
+  {
+    "ID": 536,
+    "Tribal Nation": "Upper Mattaponi Tribe",
+    "State": "VA"
+  },
+  {
+    "ID": 537,
+    "Tribal Nation": "Rappahannock Tribe, Inc.",
+    "State": "VA"
+  },
+  {
+    "ID": 538,
+    "Tribal Nation": "Monacan Indian Nation",
+    "State": "VA"
+  },
+  {
+    "ID": 539,
+    "Tribal Nation": "Nansemond Indian Tribe",
+    "State": "VA"
+  },
+  {
+    "ID": 540,
+    "Tribal Nation": "Confederated Tribes of the Chehalis Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 541,
+    "Tribal Nation": "Confederated Tribes of the Colville Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 542,
+    "Tribal Nation": "Confederated Tribes and Bands of the Yakama Nation",
+    "State": "WA"
+  },
+  {
+    "ID": 543,
+    "Tribal Nation": "Cowlitz Indian Tribe",
+    "State": "WA"
+  },
+  {
+    "ID": 544,
+    "Tribal Nation": "Hoh Indian Tribe",
+    "State": "WA"
+  },
+  {
+    "ID": 545,
+    "Tribal Nation": "Jamestown S’Klallam Tribe",
+    "State": "WA"
+  },
+  {
+    "ID": 546,
+    "Tribal Nation": "Kalispel Indian Community of the Kalispel Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 547,
+    "Tribal Nation": "Lower Elwha Tribal Community",
+    "State": "WA"
+  },
+  {
+    "ID": 548,
+    "Tribal Nation": "Lummi Tribe of the Lummi Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 549,
+    "Tribal Nation": "Makah Indian Tribe of the Makah Indian Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 550,
+    "Tribal Nation": "Muckleshoot Indian Tribe",
+    "State": "WA"
+  },
+  {
+    "ID": 551,
+    "Tribal Nation": "Nisqually Indian Tribe",
+    "State": "WA"
+  },
+  {
+    "ID": 552,
+    "Tribal Nation": "Nooksack Indian Tribe of Washington",
+    "State": "WA"
+  },
+  {
+    "ID": 553,
+    "Tribal Nation": "Port Gamble S'Klallam Tribe",
+    "State": "WA"
+  },
+  {
+    "ID": 554,
+    "Tribal Nation": "Puyallup Tribe of the Puyallup Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 555,
+    "Tribal Nation": "Quileute Tribe of the Quileute Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 556,
+    "Tribal Nation": "Quinault Indian Nation",
+    "State": "WA"
+  },
+  {
+    "ID": 557,
+    "Tribal Nation": "Samish Indian Nation",
+    "State": "WA"
+  },
+  {
+    "ID": 558,
+    "Tribal Nation": "Sauk-Suiattle Indian Tribe of Washington",
+    "State": "WA"
+  },
+  {
+    "ID": 559,
+    "Tribal Nation": "Shoalwater Bay IndianTribe of the Shoalwater Bay Indian Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 560,
+    "Tribal Nation": "Skokomish Indian Tribe",
+    "State": "WA"
+  },
+  {
+    "ID": 561,
+    "Tribal Nation": "Snoqualmie Indian Tribe",
+    "State": "WA"
+  },
+  {
+    "ID": 562,
+    "Tribal Nation": "Spokane Tribe of the Spokane Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 563,
+    "Tribal Nation": "Squaxin Island Tribe of the Squaxin Island Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 564,
+    "Tribal Nation": "Stillaguamish Tribe of Indians of Washington",
+    "State": "WA"
+  },
+  {
+    "ID": 565,
+    "Tribal Nation": "Suquamish Indian Tribe of the Port Madison Reservation",
+    "State": "WA"
+  },
+  {
+    "ID": 566,
+    "Tribal Nation": "Swinomish Indian Tribal Community",
+    "State": "WA"
+  },
+  {
+    "ID": 567,
+    "Tribal Nation": "Tulalip Tribes of Washington",
+    "State": "WA"
+  },
+  {
+    "ID": 568,
+    "Tribal Nation": "Upper Skagit Indian Tribe of Washington",
+    "State": "WA"
+  },
+  {
+    "ID": 569,
+    "Tribal Nation": "Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation",
+    "State": "WI"
+  },
+  {
+    "ID": 570,
+    "Tribal Nation": "Forest County Potawatomi Community",
+    "State": "WI"
+  },
+  {
+    "ID": 571,
+    "Tribal Nation": "Ho-Chunk Nation of Wisconsin",
+    "State": "WI"
+  },
+  {
+    "ID": 572,
+    "Tribal Nation": "Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin",
+    "State": "WI"
+  },
+  {
+    "ID": 573,
+    "Tribal Nation": "Lac du Flambeau Band of Lake Superior Chippewa Indians of the Lac du Flambeau Reservation of Wisconsin",
+    "State": "WI"
+  },
+  {
+    "ID": 574,
+    "Tribal Nation": "Menominee Indian Tribe of Wisconsin",
+    "State": "WI"
+  },
+  {
+    "ID": 575,
+    "Tribal Nation": "Oneida Tribe of Indians of Wisconsin",
+    "State": "WI"
+  },
+  {
+    "ID": 576,
+    "Tribal Nation": "Red Cliff Band of Lake Superior Chippewa Indians of Wisconsin",
+    "State": "WI"
+  },
+  {
+    "ID": 577,
+    "Tribal Nation": "St. Croix Chippewa Indians of Wisconsin",
+    "State": "WI"
+  },
+  {
+    "ID": 578,
+    "Tribal Nation": "Sokaogon Chippewa Community",
+    "State": "WI"
+  },
+  {
+    "ID": 579,
+    "Tribal Nation": "Stockbridge Munsee Community",
+    "State": "WI"
+  },
+  {
+    "ID": 580,
+    "Tribal Nation": "Arapaho Tribe of the Wind River Reservation",
+    "State": "WY"
+  },
+  {
+    "ID": 581,
+    "Tribal Nation": "Shoshone Tribe of the Wind River Reservation",
+    "State": "WY"
+  }
+]
