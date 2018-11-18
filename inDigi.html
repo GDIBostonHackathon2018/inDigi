@@ -5,6 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.css" >
 	<link href="https://fonts.googleapis.com/css?family=Oswald|Sigmar+One" rel="stylesheet">
 	 <link rel="stylesheet" href="styleInDigi.css">
+	 
 </head>
 <body>
 	<div>
@@ -19,11 +20,76 @@
 					<h1 class="titleWord">About</h1>
 					<p class="regText">The inDigi (Indigenous Digital) Project, founded by Amber Hampton, is an engaging digital preservation project centered on awareness on Indigenous communities across the globe. With the support of the amazing Rebecca Cohn and Mel Larsen, the three of them are working to build an interactive map where people can learn more about federally and state wide locations on Indigenous communities in the US.</p>
 					<h2 class="titleWord">Map</h2>
+					<div id="map" style="width: 900px;  height: 500px;"></div>
 				</div>
 			</div>
 		</div>
 	</div>
+<script src="us-map-dev/lib/raphael.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js"></script>
+		<script src="us-map-dev/jquery.usmap.js"></script>
+		<script>
 
+			$(document).ready(function() {
+	  			$('#map').usmap({
+	  				showLabels : true,
+	  				'stateStyles' : {fill: 'aqua'},
+						'stateHoverStyles' : {fill: 'yellow'},
+						//Change hover color for states with Tribal Nation Reservations or Trust Land
+						'stateSpecificHoverStyles' : {
+							'AK': {fill: 'darkred'},
+							'AL': {fill: 'darkred'},
+							'FL': {fill: 'darkred'},
+							'AZ': {fill: 'darkred'},
+							'CA': {fill: 'darkred'},
+							'NV': {fill: 'darkred'},
+							'NM': {fill: 'darkred'},
+							'UT': {fill: 'darkred'},
+							'CO': {fill: 'darkred'},
+							'CT': {fill: 'darkred'},
+							'GA': {fill: 'darkred'},
+							'IA': {fill: 'darkred'},
+							'NE': {fill: 'darkred'},
+							'ID': {fill: 'darkred'},
+							'KS': {fill: 'darkred'},
+							'LA': {fill: 'darkred'},
+							'MA': {fill: 'darkred'},
+							'ME': {fill: 'darkred'},
+							'MI': {fill: 'darkred'},
+							'MN': {fill: 'darkred'},
+							'WI': {fill: 'darkred'},
+							'MS': {fill: 'darkred'},
+							'MT': {fill: 'darkred'},
+							'ND': {fill: 'darkred'},
+							'SD': {fill: 'darkred'},
+							'NC': {fill: 'darkred'},
+							'NY': {fill: 'darkred'},
+							'OK': {fill: 'darkred'},
+							'OR': {fill: 'darkred'},
+							'RI': {fill: 'darkred'},
+							'SC': {fill: 'darkred'},
+							'TX': {fill: 'darkred'},
+							'VA': {fill: 'darkred'},
+							'WA': {fill: 'darkred'},
+							'WY': {fill: 'darkred'},
+						},
+	  				//click on a state to display a message w/state abbreviation
+	  				'click' : function(event, data) {
+	  					$('.message').remove();
+	  					output = "You clicked " + data.name
+	  					var message = $('<div class="message"></div>');
+	  					fetch("http://localhost:3000/getdata?stateid="+data.name).then(function(response) {
+    						return response.json();
+  						})
+  						.then(function(myJson) {
+    						console.log(JSON.stringify(myJson));
+ 						 });
+	  					message.text(output)
+	  					$('body').prepend(message);
+	  				}
+	  			})
+			})
+		</script>
 
 </body>
 </html>
